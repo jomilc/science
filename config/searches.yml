@@ -1,0 +1,60 @@
+profile:
+  name: Jomil Costa
+  location_priority:
+    - São Paulo
+    - Brasil remoto
+
+search_groups:
+  environmental:
+    label: Terceiro setor, carbono e geotecnologias
+    queries:
+      - 'vaga geoprocessamento sensoriamento remoto São Paulo híbrido'
+      - 'vaga GIS analista ambiental remoto Brasil'
+      - 'vaga carbono florestal AFOLU MRV Brasil remoto'
+      - 'vaga conservação restauração ecológica biodiversidade São Paulo'
+      - 'vaga serviços ecossistêmicos planejamento territorial Brasil'
+      - 'vaga ONG meio ambiente conservação São Paulo'
+  universities:
+    label: Docência em universidades particulares
+    queries:
+      - 'vaga professor biologia universidade particular São Paulo'
+      - 'vaga docente meio ambiente faculdade São Paulo'
+      - 'vaga professor geoprocessamento faculdade São Paulo'
+      - 'vaga professor sensoriamento remoto universidade São Paulo'
+      - 'vaga professor ecologia universidade particular São Paulo'
+  schools:
+    label: Professor de Biologia no ensino médio
+    queries:
+      - 'vaga professor biologia ensino médio colégio particular São Paulo'
+      - 'vaga docente biologia colégio São Paulo'
+      - 'vaga professor ciências biologia escola particular São Paulo'
+
+scoring:
+  positive_keywords:
+    carbono florestal: 16
+    AFOLU: 16
+    MRV: 16
+    sensoriamento remoto: 15
+    geoprocessamento: 15
+    GIS: 12
+    conservação: 12
+    restauração: 12
+    biodiversidade: 10
+    ecologia: 10
+    planejamento territorial: 10
+    serviços ecossistêmicos: 10
+    professor de biologia: 15
+    docente: 8
+    ensino médio: 10
+    universidade: 8
+    remoto: 10
+    híbrido: 10
+    São Paulo: 8
+  negative_keywords:
+    estágio: -25
+    trainee: -20
+    jovem aprendiz: -30
+    vendedor: -20
+    comercial: -12
+    presencial fora de São Paulo: -20
+  minimum_score: 35
