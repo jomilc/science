@@ -11,7 +11,7 @@
     "score": 100,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 34,
@@ -19,13 +19,13 @@
     "title": "294 vaga(s) de Engenharia florestal – Brasil | Glassdoor",
     "organization": "Glassdoor",
     "url": "https://www.glassdoor.com.br/Vaga/engenharia-florestal-vagas-SRCH_KO0,20.htm",
-    "snippet": "EMISFERA ASSESSORIA AMBIENTAL E SERVICOS DE TECNOLOGIA LTDAAuxiliar de Geoprocessamento e Sensoriamento remoto - PJ- Presencial ... Formação superior completa ou em andamento em Engenharia Ambiental, Engenharia Florestal, Engenharia Agronômica, Geografia, Gestão Ambiental ou áreas correlatas…… Habilidades: ArcGIS, Microsoft Powerpoint, Inglês, Banco de Dados, Segurança ... Vagas – SorrisoVagas na empresa EMISFERA ASSESSORIA AMBIENTAL E SERVICOS DE TECNOLOGIA LTDA – Sorriso",
+    "snippet": "Procure vagas de Engenharia florestal. Encontre a vaga perfeita de Engenharia florestal. Veja salários e avaliações de empresas, além de 294 vagas abertas de Engenharia florestal.",
     "source": "www.glassdoor.com.br",
     "category": "environmental",
     "score": 100,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 3131,
@@ -84,6 +84,132 @@
     "last_seen": "2026-08-21T11:26:09.847534+00:00"
   },
   {
+    "id": 4,
+    "fingerprint": "bfeecdecc91345f6d8942e1c28a0a2fe0f14b6eeaf5f2b13be92d1c2af65284c",
+    "title": "Analista de geoprocessamento jr. – remoto",
+    "organization": "Agrobase",
+    "url": "https://www.agrobase.com.br/oportunidades/2025/01/analista-de-geoprocessamento-jr-remoto/",
+    "snippet": "Graduação concluída em Geografia, Planejamento Territorial, Engenharia Florestal, Engenharia Ambiental e Urbana, Ciências Ambientais, Engenharia Agronômica, Gestão Ambiental ou áreas relacionadas; Interesse em atuar na área de geotecnologias. Participação em disciplinas de Sensoriamento Remoto, Cartografia, Geoprocessamento e correlatas; Conhecimento básico de software Microsoft Excel e GIS (QGis ou ArcGis); Experiência em Programas de Extensão, Iniciação Científica ou Empresa JR; Habilidade para trabalhar bem em equipe e boa comunicação. ... Trabalho 100% remoto (home-office). Esta vaga foi divulgada há mais de 7 dias e teve o botão de candidatura automaticamente removido*",
+    "source": "www.agrobase.com.br",
+    "category": "environmental",
+    "score": 90,
+    "status": "new",
+    "first_seen": "2026-07-22T12:25:17.372839+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 10,
+    "fingerprint": "c6ec01403574dd1cd3a5108cf594f15918c4da47337c569a1d5d5326b1da65af",
+    "title": "20 vagas de emprego disponíveis hoje (30 de junho de 2026) para Remoto Geoprocessamento | Indeed",
+    "organization": "Br",
+    "url": "https://br.indeed.com/q-remoto-geoprocessamento-vagas.html",
+    "snippet": "Ver todas as Vagas de emprego: Youx Group – vagas para Lavras – Vagas de emprego: Executivo de Negócios - Lavras, MG · Busca por salário: salários de Pessoa Executivo de Negócios - Júnior (Remoto) - Lavras, MG · Exercer todas as atividades de Analista do Setor; Processamento de dados diversos; Análise de paisagens; Sensoriamento remoto; Analise Ambiental; Elaboração…",
+    "source": "br.indeed.com",
+    "category": "environmental",
+    "score": 90,
+    "status": "new",
+    "first_seen": "2026-07-22T12:25:17.372839+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 26,
+    "fingerprint": "1f980c1bc252911d766a79ef3937c34b5f95974da5c93923135003531c9cc891",
+    "title": "BOLETIM MAPEAMENTO DE PROJETOS DE CARBONO NO SETOR AFOLU NO BRASIL",
+    "organization": "Idesam",
+    "url": "https://idesam.org/wp-content/uploads/2025/01/BOLETIM-Edicao2_Boletim-Mapeamento-_MAR24.pdf",
+    "snippet": "Standard da certificadora Verra, disponível em: https://registry.verra.org/app/search/VCS · GRÁFICO 4. Atividades de Agricultura Florestas e Uso do Solo – AFOLU (número de projetos) · Área do Território ou Propriedade (ha) envolvida e número de propriedades/territórios;",
+    "source": "idesam.org",
+    "category": "environmental",
+    "score": 90,
+    "status": "new",
+    "first_seen": "2026-07-22T12:25:17.372839+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 30,
+    "fingerprint": "c086f62fce30c5588cc1467b993e07ff5cff8a7d8985efb951ab3f6a81242238",
+    "title": "Vaga para engenheiro florestal - Piracicaba - Esalq",
+    "organization": "Esalq",
+    "url": "https://www.esalq.usp.br/boletim/vaga-para-engenheiro-florestal",
+    "snippet": "A empresa Verifit Ltda oferece uma vaga em regime remoto para os formados em Engenharia Florestal na função de auditor líder florestal ... avaliação de projetos REDD+, de reflorestamento, restauração florestal, IFM, silvicultura de espécies nativas, etc.",
+    "source": "www.esalq.usp.br",
+    "category": "environmental",
+    "score": 90,
+    "status": "new",
+    "first_seen": "2026-07-22T12:25:17.372839+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 31,
+    "fingerprint": "23999310e9d0142506c708a61f5d80f7c5cf65633d48244d29a9c94f664786db",
+    "title": "Mensuração, Relato e Verificação (MRV) e sua relação com as mudanças climáticas",
+    "organization": "Agencia",
+    "url": "https://agencia.ac.gov.br/mensuracao-relato-e-verificacao-mrv-e-sua-relacao-com-as-mudancas-climaticas/",
+    "snippet": "July 9, 2023 - É um indicador-chave para avaliar os esforços de restauração florestal e o aumento do estoque de carbono. Para fins de legitimidade e robustez na construção de políticas públicas de mitigação e adaptação às mudanças climáticas, ...",
+    "source": "agencia.ac.gov.br",
+    "category": "environmental",
+    "score": 90,
+    "status": "new",
+    "first_seen": "2026-07-22T12:25:17.372839+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 161,
+    "fingerprint": "11f7df921fac8e37e0d4f3020cc1f6e56014cfaeda6d1c0ccd6ed8e28ec11e82",
+    "title": "Vagas: geoprocessamento e sensoriamento remoto - Indeed",
+    "organization": "Br",
+    "url": "https://br.indeed.com/q-geoprocessamento-e-sensoriamento-remoto-vagas.html",
+    "snippet": "Diferenciais: sensoriamento remoto e processamento digital de imagens, noções em cadastro imobiliário e tributação municipal. Nosso escritório está localizado na cidade de São José dos Campos - SP",
+    "source": "br.indeed.com",
+    "category": "environmental",
+    "score": 90,
+    "status": "new",
+    "first_seen": "2026-07-24T12:19:05.010262+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 1744,
+    "fingerprint": "da46e18f2a46e28e8a59b48dc71a02263d29e546fd45663fb7c27f1287b42c17",
+    "title": "3 vagas de emprego disponíveis hoje (16 de agosto de 2026) de Sensoriamento Remoto - Estado de São Paulo | Indeed",
+    "organization": "Br",
+    "url": "https://br.indeed.com/q-sensoriamento-remoto-l-estado-de-são-paulo-vagas.html",
+    "snippet": "Busca por salário: salários de Coordenador(a) de Aerolevantamento SAR / Operações com UAV - São José dos Campos, SP ... Crie uma conta do Indeed antes de continuar a candidatura no site da empresa. ... None: ATRIBUIÇÕES É responsável por desenvolver, administrar e manter soluções de geoprocessamento e inteligência geoespacial, garantindo a qualidade, integração e governança dos dados geográficos da empresa. Atua na padronização de estruturas e modelos espaciais, processamento de imagens e dados de sensoriamento remoto, automação de processos GIS e desenvolvimento de análises geográficas para apoio à tomada de decisão.",
+    "source": "br.indeed.com",
+    "category": "environmental",
+    "score": 90,
+    "status": "new",
+    "first_seen": "2026-08-17T11:25:52.728858+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 2165,
+    "fingerprint": "43f8e97d2c75fc9816d52f25678f3db40ee1e1a459b7e2a8f979e2a48d3af0b0",
+    "title": "Consultor(a) projetos de restauração e carbono – Brasil",
+    "organization": "Agrobase",
+    "url": "https://www.agrobase.com.br/oportunidades/2026/08/consultora-projetos-de-restauracao-e-carbono-brasil/",
+    "snippet": "1 month ago - Experiência em restauração ecológica, carbono florestal, inventários, MRV, auditorias ou verificações. Contratação PJ. Ter CNPJ aberto e CNAE compatível com escopo do serviço. Ter conta corrente jurídica para a realização dos pagamentos (até a data da contratação). ... Conhecer as metodologias VCS/Verra, Gold Standard, Plan Vivo, Social Carbon e outros padrões AFOLU.",
+    "source": "www.agrobase.com.br",
+    "category": "environmental",
+    "score": 90,
+    "status": "new",
+    "first_seen": "2026-08-24T11:28:30.427281+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 2755,
+    "fingerprint": "88ccf566de9caf91bd0fdeb3ac7be7e8794e84f4bfa84226df6b99969f642682",
+    "title": "Analista de geoprocessamento ESG - São Paulo/SP [híbrido]",
+    "organization": "Agrobase",
+    "url": "https://www.agrobase.com.br/oportunidades/2026/09/analista-de-geoprocessamento-esg-sao-paulo-sp-hibrido/",
+    "snippet": "Formação em Geografia, Geoprocessamento, Engenharia Ambiental, Ciências Ambientais ou áreas correlatas. Experiência com QGIS e/ou ArcGIS. Conhecimento em análise multitemporal e sensoriamento remoto. Excel avançado. Conhecimento em Data Analytics e visualização de dados. Familiaridade com bases como MapBiomas, PRODES, DETER, CAR e SIGEF.",
+    "source": "www.agrobase.com.br",
+    "category": "environmental",
+    "score": 90,
+    "status": "new",
+    "first_seen": "2026-09-04T14:49:57.137375+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
     "id": 2,
     "fingerprint": "6abce1300f3658ce1610c6d947c37344e4b6893632f22e3e01a708ac582f0cd5",
     "title": "131 vaga(s) de Técnico de geoprocessamento – Brasil | Glassdoor",
@@ -112,20 +238,6 @@
     "last_seen": "2026-09-21T16:48:46.383246+00:00"
   },
   {
-    "id": 4,
-    "fingerprint": "bfeecdecc91345f6d8942e1c28a0a2fe0f14b6eeaf5f2b13be92d1c2af65284c",
-    "title": "Analista de geoprocessamento jr. – remoto",
-    "organization": "Agrobase",
-    "url": "https://www.agrobase.com.br/oportunidades/2025/01/analista-de-geoprocessamento-jr-remoto/",
-    "snippet": "Participação em disciplinas de Sensoriamento Remoto, Cartografia, Geoprocessamento e correlatas; Conhecimento básico de software Microsoft Excel e GIS (QGis ou ArcGis); Experiência em Programas de Extensão, Iniciação Científica ou Empresa JR; Habilidade para trabalhar bem em equipe e boa comunicação. ... Trabalho 100% remoto (home-office). Esta vaga foi divulgada há mais de 7 dias e teve o botão de candidatura automaticamente removido*",
-    "source": "www.agrobase.com.br",
-    "category": "environmental",
-    "score": 90,
-    "status": "new",
-    "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
-  },
-  {
     "id": 9,
     "fingerprint": "3e91f849cb8a304f76c5b8a34ea160f3758a672a6610a7c865a01ab7e564c5ab",
     "title": "Vagas de Analista De Geoprocessamento | Indeed",
@@ -137,62 +249,6 @@
     "score": 90,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
-  },
-  {
-    "id": 10,
-    "fingerprint": "c6ec01403574dd1cd3a5108cf594f15918c4da47337c569a1d5d5326b1da65af",
-    "title": "20 vagas de emprego disponíveis hoje (30 de junho de 2026) para Remoto Geoprocessamento | Indeed",
-    "organization": "Br",
-    "url": "https://br.indeed.com/q-remoto-geoprocessamento-vagas.html",
-    "snippet": "Experiência com sensoriamento remoto aplicado à biomassa florestal. Conhecimento em geoprocessamento (QGIS, ArcGIS ou similares);",
-    "source": "br.indeed.com",
-    "category": "environmental",
-    "score": 90,
-    "status": "new",
-    "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
-  },
-  {
-    "id": 30,
-    "fingerprint": "c086f62fce30c5588cc1467b993e07ff5cff8a7d8985efb951ab3f6a81242238",
-    "title": "Vaga para engenheiro florestal - Piracicaba - Esalq",
-    "organization": "Esalq",
-    "url": "https://www.esalq.usp.br/boletim/vaga-para-engenheiro-florestal",
-    "snippet": "A empresa Verifit Ltda oferece uma vaga em regime remoto para os formados em Engenharia Florestal na função de auditor líder florestal ... avaliação de projetos REDD+, de reflorestamento, restauração florestal, IFM, silvicultura de espécies nativas, etc.",
-    "source": "www.esalq.usp.br",
-    "category": "environmental",
-    "score": 90,
-    "status": "new",
-    "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
-  },
-  {
-    "id": 31,
-    "fingerprint": "23999310e9d0142506c708a61f5d80f7c5cf65633d48244d29a9c94f664786db",
-    "title": "Mensuração, Relato e Verificação (MRV) e sua relação com as mudanças climáticas",
-    "organization": "Agencia",
-    "url": "https://agencia.ac.gov.br/mensuracao-relato-e-verificacao-mrv-e-sua-relacao-com-as-mudancas-climaticas/",
-    "snippet": "July 9, 2023 - É um indicador-chave para avaliar os esforços de restauração florestal e o aumento do estoque de carbono. Para fins de legitimidade e robustez na construção de políticas públicas de mitigação e adaptação às mudanças climáticas, ...",
-    "source": "agencia.ac.gov.br",
-    "category": "environmental",
-    "score": 90,
-    "status": "new",
-    "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
-  },
-  {
-    "id": 2165,
-    "fingerprint": "43f8e97d2c75fc9816d52f25678f3db40ee1e1a459b7e2a8f979e2a48d3af0b0",
-    "title": "Consultor(a) projetos de restauração e carbono – Brasil",
-    "organization": "Agrobase",
-    "url": "https://www.agrobase.com.br/oportunidades/2026/08/consultora-projetos-de-restauracao-e-carbono-brasil/",
-    "snippet": "1 month ago - Experiência em restauração ecológica, carbono florestal, inventários, MRV, auditorias ou verificações. Contratação PJ. Ter CNPJ aberto e CNAE compatível com escopo do serviço. Ter conta corrente jurídica para a realização dos pagamentos (até a data da contratação). ... Conhecer as metodologias VCS/Verra, Gold Standard, Plan Vivo, Social Carbon e outros padrões AFOLU.",
-    "source": "www.agrobase.com.br",
-    "category": "environmental",
-    "score": 90,
-    "status": "new",
-    "first_seen": "2026-08-24T11:28:30.427281+00:00",
     "last_seen": "2026-09-21T16:48:46.383246+00:00"
   },
   {
@@ -208,20 +264,6 @@
     "status": "new",
     "first_seen": "2026-07-27T13:39:36.802639+00:00",
     "last_seen": "2026-09-18T14:48:01.246728+00:00"
-  },
-  {
-    "id": 161,
-    "fingerprint": "11f7df921fac8e37e0d4f3020cc1f6e56014cfaeda6d1c0ccd6ed8e28ec11e82",
-    "title": "Vagas: geoprocessamento e sensoriamento remoto - Indeed",
-    "organization": "Br",
-    "url": "https://br.indeed.com/q-geoprocessamento-e-sensoriamento-remoto-vagas.html",
-    "snippet": "Diferenciais: sensoriamento remoto e processamento digital de imagens, noções em cadastro imobiliário e tributação municipal. Nosso escritório está localizado na cidade de São José dos Campos - SP",
-    "source": "br.indeed.com",
-    "category": "environmental",
-    "score": 90,
-    "status": "new",
-    "first_seen": "2026-07-24T12:19:05.010262+00:00",
-    "last_seen": "2026-09-16T15:20:24.392042+00:00"
   },
   {
     "id": 3268,
@@ -487,7 +529,7 @@
     "score": 86,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 32,
@@ -495,13 +537,13 @@
     "title": "Processo seletivo para 5 Vagas de Pós-doutorado na UFLA (Engenharia florestal/Ciências Florestais e áreas afins) - Inscrições até 24/03/2022",
     "organization": "Dcf",
     "url": "https://dcf.ufla.br/editais/101-processo-seletivo-para-5-vagas-de-pos-doutorado-na-ufla-engenharia-florestal-ciencias-florestais-e-areas-afins-inscricoes-ate-24-03-2023",
-    "snippet": "Processo seletivo para 5 Vagas de Pós-doutorado na UFLA (Engenharia florestal/Ciências Florestais e áreas afins) - Inscrições até 24/03/2022 ... Estão abertas as inscrições para seleção de candidatos a Bolsas de Pesquisa para 5 vagas de Pós-Doutorado junto a Universidade Federal ...",
+    "snippet": "Processo seletivo para 5 Vagas ... florestal/Ciências Florestais e áreas afins) - Inscrições até 24/03/2022 ... Estão abertas as inscrições para seleção de candidatos a Bolsas de Pesquisa para 5 vagas de Pós-Doutorado junto a Universidade Federal de Lavras - UFLA, por meio do Convênio ...",
     "source": "dcf.ufla.br",
     "category": "environmental",
     "score": 86,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 2998,
@@ -529,7 +571,7 @@
     "score": 82,
     "status": "new",
     "first_seen": "2026-08-05T12:52:42.459664+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 681,
@@ -560,6 +602,216 @@
     "last_seen": "2026-08-12T11:45:55.898839+00:00"
   },
   {
+    "id": 12,
+    "fingerprint": "978f589eac4fdba0d06c84a03ff92eb03c1e312a5dc23d331ecbfbecfabf0ff5",
+    "title": "13 vagas de geoprocessamento – São Paulo, SP | Glassdoor",
+    "organization": "Glassdoor",
+    "url": "https://www.glassdoor.com.br/Vaga/são-paulo-geoprocessamento-vagas-SRCH_IL.0,9_IC2479061_KO10,26.htm",
+    "snippet": "Vagas de engenheiro(a) ambiental – São Paulo, São PauloVagas – São Paulo, São PauloVagas na empresa Arcadis – São Paulo, São Paulo ... Avaliações de funcionários da empresa ArcadisExperiência de entrevista da empresa ArcadisTrabalhando na Arcadis ... Conhecimento técnico em análise agronômica, clima e riscos agrícolas; Experiência com sensoriamento remoto, geoprocessamento ou análise de dados agrícolas;…",
+    "source": "www.glassdoor.com.br",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-07-22T12:25:17.372839+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 14,
+    "fingerprint": "06cac187bc862dc9eff9f04c6fd84f3673d1ce3595491754a4088ca86417e5a0",
+    "title": "98 vagas de Geoprocessamento em: Brasil (3 nova(s))",
+    "organization": "Br",
+    "url": "https://br.linkedin.com/jobs/geoprocessamento-vagas",
+    "snippet": "Entre para criar um alerta de vaga · Estágio em Geoprocessamento · Curitiba, PR R$ 0,00 - R$ 12,00 · Seja um dos primeiros a se candidatar Há 1 semana · Estágio em geoprocessamento · Belo Horizonte, MG R$ 0,00 - R$ 1.200,00 Há 9 meses · Estágio em Geoprocessamento · Belo Horizonte, MG R$ 0,00 - R$ 1.200,00 Há 6 meses · Analista de Geoprocessamento Júnior · São Paulo e Região Há 2 meses · Estágiário(A) Engenharia Ambiental - Curitiba/Pr ·",
+    "source": "br.linkedin.com",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-07-22T12:25:17.372839+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 23,
+    "fingerprint": "157b4c6b8c1731beb53f114a9d1595e6edd543d501fbbb3318535b542aa5824d",
+    "title": "Ambiental Pro Vagas - Conectando Profissionais Ambientais",
+    "organization": "Hub",
+    "url": "https://hub.ambientalpro.com.br/vagas",
+    "snippet": "Estamos com vaga aberta! Se você tem experiência com geotecnologias, sensoriamento remoto e análise espacial, e quer atuar em projetos de alta complexidade com foco em sustentabilidade, essa oportunidade pode ser pra você!",
+    "source": "hub.ambientalpro.com.br",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-07-22T12:25:17.372839+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 27,
+    "fingerprint": "678e1f79ea9e769f219fb70a06c5b6b7b6f0b7214845ecdd6708c0c97f62a383",
+    "title": "+ de 1.000 vagas de Florestal em: Brasil",
+    "organization": "Br",
+    "url": "https://br.linkedin.com/jobs/florestal-vagas",
+    "snippet": "As 504 melhores vagas de Florestal de hoje em: Brasil. Aproveite sua rede profissional para conseguir um emprego. Novas vagas de Florestal adicionadas diariamente.",
+    "source": "br.linkedin.com",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-07-22T12:25:17.372839+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 28,
+    "fingerprint": "4c0d1d2cd2490b77cda581d030ad8f48130152f9e73eb9c9b408f97d0ffec0af",
+    "title": "Brasil passa a contabilizar carbono de produtos florestais madeireiros - Portal Embrapa",
+    "organization": "Embrapa",
+    "url": "https://www.embrapa.br/en/busca-de-noticias/-/noticia/78579811/brasil-passa-a-contabilizar-carbono-de-produtos-florestais-madeireiros",
+    "snippet": "Foto acima e à esquerda: Luciane C. Jaques (painel madeira_Indústria Berneck) Acúmulo e emissão O gráfico acima mostra a contribuição dos produtos florestais madeireiros para o setor de Agricultura, Florestas e Uso do solo (Agriculture, Forests and other Land Use – AFOLU).",
+    "source": "www.embrapa.br",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-07-22T12:25:17.372839+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 29,
+    "fingerprint": "a1a54031ea73ad3803f0b8881a362ee4c105bca366ffad8c37ef30a58acf509d",
+    "title": "681 vagas (Brasil) - home office | Glassdoor",
+    "organization": "Glassdoor",
+    "url": "https://www.glassdoor.com.br/Vaga/brasil-florestal-vagas-SRCH_IL.0,6_IN36_KW7,16.htm",
+    "snippet": "Salários do cargo de profissional de meio ambiente (Trabalho remoto) Escritório virtual expertGerente de Manejo de Vegetação | Eng. Agrônomo ou Florestal",
+    "source": "www.glassdoor.com.br",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-07-22T12:25:17.372839+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 36,
+    "fingerprint": "0cb6aa7192ce7d6227bf15bd2bddeb7cff561f7f9d93afc81542d86fffc4da3e",
+    "title": "31 vaga(s) de Florestal – Mato Grosso - Glassdoor",
+    "organization": "Glassdoor",
+    "url": "https://www.glassdoor.com.br/Vaga/mt-florestal-vagas-SRCH_IL.0,2_IS3925_KO3,12.htm",
+    "snippet": "EMISFERA ASSESSORIA AMBIENTAL E SERVICOS DE TECNOLOGIA LTDAEngenheiro(a) Florestal – (CLT | Presencial) ... A Emisfera Agro – Crédito de Carbono busca um(a) Engenheiro(a) Florestal com experiência comprovada em inventário florestal no Bioma Amazônico para integrar……",
+    "source": "www.glassdoor.com.br",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-07-22T12:25:17.372839+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 103,
+    "fingerprint": "74b92db3900e65bcaccf9734f786adfbf81cc0d4b2f9c13aa90877cbc9921d84",
+    "title": "26 vagas de Geoprocessamento em: São Paulo, São Paulo, Brasil",
+    "organization": "Br",
+    "url": "https://br.linkedin.com/jobs/geoprocessamento-vagas-são-paulo",
+    "snippet": "As 26 melhores vagas de Geoprocessamento de hoje em: São Paulo, São Paulo, Brasil. Aproveite sua rede profissional para conseguir um emprego. Novas vagas de Geoprocessamento adicionadas diariamente.",
+    "source": "br.linkedin.com",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-07-22T12:25:17.372839+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 1054,
+    "fingerprint": "23375db3499a486b3a60ae20633b271da8483b0be81ef58d38f711007e50499d",
+    "title": "21 vagas de Geoprocessamento em: São Paulo e Região",
+    "organization": "Br",
+    "url": "https://br.linkedin.com/jobs/geoprocessamento-vagas-são-paulo-e-região",
+    "snippet": "21 principais vagas de Geoprocessamento hoje em São Paulo e Região. Aproveite sua rede profissional e seja contratado. Novas vagas de Geoprocessamento adicionadas diariamente.",
+    "source": "br.linkedin.com",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-08-05T12:52:42.459664+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 2044,
+    "fingerprint": "eb616b6e31941ebb8f3440b88803ad016c810bfb81469e6ede3d14a8aa74fef9",
+    "title": "Porque o MRV do Mercado Regulado de Carbono precisa incluir as remoções e não apenas as emissões -",
+    "organization": "Blog",
+    "url": "https://blog.jiantan.com.br/2026/08/19/mrv-do-mercado-de-carbon/",
+    "snippet": "August 19, 2026 - Essas áreas não são marginais: fazem parte estrutural do sistema produtivo e desempenham um papel contínuo na remoção de carbono da atmosfera, mediante o incremento anual de biomassa seca, mensurável segundo critérios do IPCC. A exclusão das remoções do MRV significa ignorar o ativo que mais caracteriza a contribuição climática do Brasil.",
+    "source": "blog.jiantan.com.br",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-08-21T11:26:09.847534+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 2147,
+    "fingerprint": "df65068ca779d449795c950f2f74a550e3ccc5dd7da3faa80eb877901cd24339",
+    "title": "Vagas de emprego sensoriamento remoto São Paulo, SP",
+    "organization": "Br",
+    "url": "https://br.jobsora.com/empregos-sensoriamento-remoto-são-paulo-sp",
+    "snippet": "Pesquise e inscreva-se nas últimas vagas de sensoriamento remoto. Empregadores verificados. Salário competitivo. Alertas de e-mail de trabalho. 18 sensoriamento remoto vagas de emprego em Jobsora. Encontre o seu trabalho hoje!",
+    "source": "br.jobsora.com",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-08-24T11:28:30.427281+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 2480,
+    "fingerprint": "520738974f36c371181121623909472c3084977fc1fecaa940360944018deadc",
+    "title": "Vagas de Sensoriamento remoto (Urgente!) - 2026 - Jooble",
+    "organization": "Br",
+    "url": "https://br.jooble.org/vagas-de-emprego-sensoriamento-remoto",
+    "snippet": "Vagas de emprego novas para Sensoriamento remoto. Salário competitivo. Vagas de período integral, temporário ou meio período para Sensoriamento remoto. E-mail com alerta de vagas. O modo grátis, rápido e eficaz para achar emprego entre 311.000+ vagas atuais. Vagas de emprego nas melhores empresas brasileiras. Comece sua nova carreira agora!",
+    "source": "br.jooble.org",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-08-31T17:55:30.129527+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 2605,
+    "fingerprint": "6bb3914f520c56f78e69a8115b8dfeb616bcea02adbd73b11dc2c5b0c5d41d7f",
+    "title": "6 vagas de sensoriamento remoto - São Paulo | Glassdoor",
+    "organization": "Glassdoor",
+    "url": "https://www.glassdoor.com.br/Vaga/sp-sensoriamento-remoto-vagas-SRCH_IL.0,2_IS3937_KO3,23.htm",
+    "snippet": "Procure vagas de Sensoriamento remoto em São Paulo. Veja salários e avaliações de empresas, além de 6 vagas abertas de Sensoriamento remoto em SP.",
+    "source": "www.glassdoor.com.br",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-09-02T14:59:26.105137+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 3428,
+    "fingerprint": "cfa8c5d9170080523e71008571673293676d85232d4ebd3259688b5aea51aea1",
+    "title": "Vagas de emprego sensoriamento remoto - 111 empregos | Jobsora",
+    "organization": "Br",
+    "url": "https://br.jobsora.com/empregos-sensoriamento-remoto",
+    "snippet": "Pesquise e inscreva-se nas últimas vagas de sensoriamento remoto. Empregadores verificados. Salário competitivo. Alertas de e-mail de trabalho. 111 sensoriamento remoto vagas de emprego em Jobsora. Encontre o seu trabalho hoje!",
+    "source": "br.jobsora.com",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-09-16T15:20:24.392042+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 3660,
+    "fingerprint": "3b96c1e59022b54853504c8fe7169475f6b379e853e88f43590ff94e4337694c",
+    "title": "Vagas: geoprocessamento e sensoriamento remoto - São Paulo, SP",
+    "organization": "Br",
+    "url": "https://br.indeed.com/q-geoprocessamento-e-sensoriamento-remoto-l-são-paulo,-sp-vagas.html",
+    "snippet": "Procure seu próximo emprego de Geoprocessamento E Sensoriamento Remoto na Indeed.com entre Indeed.com vagas disponíveis",
+    "source": "br.indeed.com",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-09-23T15:19:54.425894+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
     "id": 7,
     "fingerprint": "804c1719135e330bc999622b8b6e69e615a5b43cd04ae6132c0f26c245d3f34a",
     "title": "131 vaga(s) de Geoprocessamento – Brasil | Glassdoor",
@@ -588,174 +840,6 @@
     "last_seen": "2026-09-21T16:48:46.383246+00:00"
   },
   {
-    "id": 23,
-    "fingerprint": "157b4c6b8c1731beb53f114a9d1595e6edd543d501fbbb3318535b542aa5824d",
-    "title": "Ambiental Pro Vagas - Conectando Profissionais Ambientais",
-    "organization": "Hub",
-    "url": "https://hub.ambientalpro.com.br/vagas",
-    "snippet": "Estamos com vaga aberta! Se você tem experiência com geotecnologias, sensoriamento remoto e análise espacial, e quer atuar em projetos de alta complexidade com foco em sustentabilidade, essa oportunidade pode ser pra você!",
-    "source": "hub.ambientalpro.com.br",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
-  },
-  {
-    "id": 26,
-    "fingerprint": "1f980c1bc252911d766a79ef3937c34b5f95974da5c93923135003531c9cc891",
-    "title": "BOLETIM MAPEAMENTO DE PROJETOS DE CARBONO NO SETOR AFOLU NO BRASIL",
-    "organization": "Idesam",
-    "url": "https://idesam.org/wp-content/uploads/2025/01/BOLETIM-Edicao2_Boletim-Mapeamento-_MAR24.pdf",
-    "snippet": "SETOR AFOLU NO BRASIL. O Mapeamento de Projetos de Carbono no setor AFOLU no Brasil com foco na Amazônia tem",
-    "source": "idesam.org",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
-  },
-  {
-    "id": 27,
-    "fingerprint": "678e1f79ea9e769f219fb70a06c5b6b7b6f0b7214845ecdd6708c0c97f62a383",
-    "title": "+ de 1.000 vagas de Florestal em: Brasil",
-    "organization": "Br",
-    "url": "https://br.linkedin.com/jobs/florestal-vagas",
-    "snippet": "As 504 melhores vagas de Florestal de hoje em: Brasil. Aproveite sua rede profissional para conseguir um emprego. Novas vagas de Florestal adicionadas diariamente.",
-    "source": "br.linkedin.com",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
-  },
-  {
-    "id": 28,
-    "fingerprint": "4c0d1d2cd2490b77cda581d030ad8f48130152f9e73eb9c9b408f97d0ffec0af",
-    "title": "Brasil passa a contabilizar carbono de produtos florestais madeireiros - Portal Embrapa",
-    "organization": "Embrapa",
-    "url": "https://www.embrapa.br/en/busca-de-noticias/-/noticia/78579811/brasil-passa-a-contabilizar-carbono-de-produtos-florestais-madeireiros",
-    "snippet": "Foto acima e à esquerda: Luciane C. Jaques (painel madeira_Indústria Berneck) Acúmulo e emissão O gráfico acima mostra a contribuição dos produtos florestais madeireiros para o setor de Agricultura, Florestas e Uso do solo (Agriculture, Forests and other Land Use – AFOLU).",
-    "source": "www.embrapa.br",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
-  },
-  {
-    "id": 29,
-    "fingerprint": "a1a54031ea73ad3803f0b8881a362ee4c105bca366ffad8c37ef30a58acf509d",
-    "title": "681 vagas (Brasil) - home office | Glassdoor",
-    "organization": "Glassdoor",
-    "url": "https://www.glassdoor.com.br/Vaga/brasil-florestal-vagas-SRCH_IL.0,6_IN36_KW7,16.htm",
-    "snippet": "Salários do cargo de profissional de meio ambiente (Trabalho remoto) Escritório virtual expertGerente de Manejo de Vegetação | Eng. Agrônomo ou Florestal",
-    "source": "www.glassdoor.com.br",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
-  },
-  {
-    "id": 36,
-    "fingerprint": "0cb6aa7192ce7d6227bf15bd2bddeb7cff561f7f9d93afc81542d86fffc4da3e",
-    "title": "31 vaga(s) de Florestal – Mato Grosso - Glassdoor",
-    "organization": "Glassdoor",
-    "url": "https://www.glassdoor.com.br/Vaga/mt-florestal-vagas-SRCH_IL.0,2_IS3925_KO3,12.htm",
-    "snippet": "EMISFERA ASSESSORIA AMBIENTAL E SERVICOS DE TECNOLOGIA LTDAEngenheiro(a) Florestal – (CLT | Presencial) ... A Emisfera Agro – Crédito de Carbono busca um(a) Engenheiro(a) Florestal com experiência comprovada em inventário florestal no Bioma Amazônico para integrar……",
-    "source": "www.glassdoor.com.br",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
-  },
-  {
-    "id": 1744,
-    "fingerprint": "da46e18f2a46e28e8a59b48dc71a02263d29e546fd45663fb7c27f1287b42c17",
-    "title": "3 vagas de emprego disponíveis hoje (16 de agosto de 2026) de Sensoriamento Remoto - Estado de São Paulo | Indeed",
-    "organization": "Br",
-    "url": "https://br.indeed.com/q-sensoriamento-remoto-l-estado-de-são-paulo-vagas.html",
-    "snippet": "Busca por salário: salários de ... Gerar desenhos técnicos, modelos BIM e produtos de engenharia a… · Ver todas as Vagas de emprego: Smart Sky Serviços Ltda – vagas para São Paulo ......",
-    "source": "br.indeed.com",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-08-17T11:25:52.728858+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
-  },
-  {
-    "id": 2755,
-    "fingerprint": "88ccf566de9caf91bd0fdeb3ac7be7e8794e84f4bfa84226df6b99969f642682",
-    "title": "Analista de geoprocessamento ESG – São Paulo/SP [híbrido]",
-    "organization": "Agrobase",
-    "url": "https://www.agrobase.com.br/oportunidades/2026/09/analista-de-geoprocessamento-esg-sao-paulo-sp-hibrido/",
-    "snippet": "Conhecimento em análise multitemporal e sensoriamento remoto. Excel avançado. Conhecimento em Data Analytics e visualização de dados. Familiaridade com bases como MapBiomas, PRODES, DETER, CAR e SIGEF. Formação em Geografia, Geoprocessamento, Engenharia Ambiental, Ciências Ambientais ou áreas correlatas.",
-    "source": "www.agrobase.com.br",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-09-04T14:49:57.137375+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
-  },
-  {
-    "id": 14,
-    "fingerprint": "06cac187bc862dc9eff9f04c6fd84f3673d1ce3595491754a4088ca86417e5a0",
-    "title": "98 vagas de Geoprocessamento em: Brasil (3 nova(s))",
-    "organization": "Br",
-    "url": "https://br.linkedin.com/jobs/geoprocessamento-vagas",
-    "snippet": "Entre para criar um alerta de vaga · Estágio em Geoprocessamento · Curitiba, PR R$ 0,00 - R$ 12,00 · Seja um dos primeiros a se candidatar Há 1 semana · Estágio em geoprocessamento · Belo Horizonte, MG R$ 0,00 - R$ 1.200,00 Há 9 meses · Estágio em Geoprocessamento · Belo Horizonte, MG R$ 0,00 - R$ 1.200,00 Há 6 meses · Analista de Geoprocessamento Júnior · São Paulo e Região Há 2 meses · Estágiário(A) Engenharia Ambiental - Curitiba/Pr ·",
-    "source": "br.linkedin.com",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-18T14:48:01.246728+00:00"
-  },
-  {
-    "id": 2044,
-    "fingerprint": "eb616b6e31941ebb8f3440b88803ad016c810bfb81469e6ede3d14a8aa74fef9",
-    "title": "Porque o MRV do Mercado Regulado de Carbono precisa incluir as remoções e não apenas as emissões -",
-    "organization": "Blog",
-    "url": "https://blog.jiantan.com.br/2026/08/19/mrv-do-mercado-de-carbon/",
-    "snippet": "1 month ago - Essas áreas não são marginais: fazem parte estrutural do sistema produtivo e desempenham um papel contínuo na remoção de carbono da atmosfera, mediante o incremento anual de biomassa seca, mensurável segundo critérios do IPCC. A exclusão das remoções do MRV significa ignorar o ativo que mais caracteriza a contribuição climática do Brasil.",
-    "source": "blog.jiantan.com.br",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-08-21T11:26:09.847534+00:00",
-    "last_seen": "2026-09-18T14:48:01.246728+00:00"
-  },
-  {
-    "id": 12,
-    "fingerprint": "978f589eac4fdba0d06c84a03ff92eb03c1e312a5dc23d331ecbfbecfabf0ff5",
-    "title": "13 vagas de geoprocessamento – São Paulo, SP | Glassdoor",
-    "organization": "Glassdoor",
-    "url": "https://www.glassdoor.com.br/Vaga/são-paulo-geoprocessamento-vagas-SRCH_IL.0,9_IC2479061_KO10,26.htm",
-    "snippet": "Vagas de engenheiro(a) ambiental – São Paulo, São PauloVagas – São Paulo, São PauloVagas na empresa Arcadis – São Paulo, São Paulo ... Avaliações de funcionários da empresa ArcadisExperiência de entrevista da empresa ArcadisTrabalhando na Arcadis ... Conhecimento técnico em análise agronômica, clima e riscos agrícolas; Experiência com sensoriamento remoto, geoprocessamento ou análise de dados agrícolas;…",
-    "source": "www.glassdoor.com.br",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-16T15:20:24.392042+00:00"
-  },
-  {
-    "id": 103,
-    "fingerprint": "74b92db3900e65bcaccf9734f786adfbf81cc0d4b2f9c13aa90877cbc9921d84",
-    "title": "29 vagas de Geoprocessamento em: São Paulo, São Paulo, Brasil",
-    "organization": "Br",
-    "url": "https://br.linkedin.com/jobs/geoprocessamento-vagas-são-paulo",
-    "snippet": "As 29 melhores vagas de Geoprocessamento de hoje em: São Paulo, São Paulo, Brasil. Aproveite sua rede profissional para conseguir um emprego. Novas vagas de Geoprocessamento adicionadas diariamente.",
-    "source": "br.linkedin.com",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-16T15:20:24.392042+00:00"
-  },
-  {
     "id": 111,
     "fingerprint": "f25b19b2ee82e1243fe8ed0f56c7ff3c463c671c45d3e28ae82738f8dffe416d",
     "title": "27 vagas de Sensoriamento Remoto em: Brasil - LinkedIn Brasil",
@@ -781,48 +865,6 @@
     "score": 78,
     "status": "new",
     "first_seen": "2026-07-27T13:39:36.802639+00:00",
-    "last_seen": "2026-09-16T15:20:24.392042+00:00"
-  },
-  {
-    "id": 2147,
-    "fingerprint": "df65068ca779d449795c950f2f74a550e3ccc5dd7da3faa80eb877901cd24339",
-    "title": "Vagas de emprego sensoriamento remoto São Paulo, SP",
-    "organization": "Br",
-    "url": "https://br.jobsora.com/empregos-sensoriamento-remoto-são-paulo-sp",
-    "snippet": "Pesquise e inscreva-se nas últimas vagas de sensoriamento remoto. Empregadores verificados. Salário competitivo. Alertas de e-mail de trabalho. 18 sensoriamento remoto vagas de emprego em Jobsora. Encontre o seu trabalho hoje!",
-    "source": "br.jobsora.com",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-08-24T11:28:30.427281+00:00",
-    "last_seen": "2026-09-16T15:20:24.392042+00:00"
-  },
-  {
-    "id": 2605,
-    "fingerprint": "6bb3914f520c56f78e69a8115b8dfeb616bcea02adbd73b11dc2c5b0c5d41d7f",
-    "title": "5 vagas de sensoriamento remoto - São Paulo | Glassdoor",
-    "organization": "Glassdoor",
-    "url": "https://www.glassdoor.com.br/Vaga/sp-sensoriamento-remoto-vagas-SRCH_IL.0,2_IS3937_KO3,23.htm",
-    "snippet": "Procure vagas de Sensoriamento remoto em São Paulo. Veja salários e avaliações de empresas, além de 5 vagas abertas de Sensoriamento remoto em SP.",
-    "source": "www.glassdoor.com.br",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-09-02T14:59:26.105137+00:00",
-    "last_seen": "2026-09-16T15:20:24.392042+00:00"
-  },
-  {
-    "id": 3428,
-    "fingerprint": "cfa8c5d9170080523e71008571673293676d85232d4ebd3259688b5aea51aea1",
-    "title": "Vagas de emprego sensoriamento remoto - 111 empregos | Jobsora",
-    "organization": "Br",
-    "url": "https://br.jobsora.com/empregos-sensoriamento-remoto",
-    "snippet": "Pesquise e inscreva-se nas últimas vagas de sensoriamento remoto. Empregadores verificados. Salário competitivo. Alertas de e-mail de trabalho. 111 sensoriamento remoto vagas de emprego em Jobsora. Encontre o seu trabalho hoje!",
-    "source": "br.jobsora.com",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-09-16T15:20:24.392042+00:00",
     "last_seen": "2026-09-16T15:20:24.392042+00:00"
   },
   {
@@ -1174,20 +1216,6 @@
     "status": "new",
     "first_seen": "2026-09-02T14:59:26.105137+00:00",
     "last_seen": "2026-09-04T14:49:57.137375+00:00"
-  },
-  {
-    "id": 2480,
-    "fingerprint": "520738974f36c371181121623909472c3084977fc1fecaa940360944018deadc",
-    "title": "Vagas de Sensoriamento remoto (Urgente!) - 2026 - Jooble",
-    "organization": "Br",
-    "url": "https://br.jooble.org/vagas-de-emprego-sensoriamento-remoto",
-    "snippet": "Vagas de emprego novas para Sensoriamento remoto. Salário competitivo. Vagas de período integral, temporário ou meio período para Sensoriamento remoto. E-mail com alerta de vagas. O modo grátis, rápido e eficaz para achar emprego entre 278.000+ vagas atuais. Vagas de emprego nas melhores empresas brasileiras. Comece sua nova carreira agora!",
-    "source": "br.jooble.org",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-08-31T17:55:30.129527+00:00",
-    "last_seen": "2026-09-02T14:59:26.105137+00:00"
   },
   {
     "id": 2602,
@@ -1985,7 +2013,7 @@
     "score": 74,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 911,
@@ -2027,7 +2055,35 @@
     "score": 72,
     "status": "new",
     "first_seen": "2026-07-24T12:19:05.010262+00:00",
-    "last_seen": "2026-09-18T14:48:01.246728+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 182,
+    "fingerprint": "e9b88f8096c73352c7955a146ffbd27f0ad4703ebb51b9ee221f27f49059a6cb",
+    "title": "28 vaga(s) de Analista geoespacial – Brasil | Glassdoor",
+    "organization": "Glassdoor",
+    "url": "https://www.glassdoor.com.br/Vaga/analista-geoespacial-vagas-SRCH_KO0,20.htm",
+    "snippet": "Desenvolve mapas temáticos, bases de dados e análises espaciais que subsidiam estudos ambientais, processos de licenciamento, regularização fundiária e ambiental, bem como projetos de recuperação ambiental. Este profissional deve possuir sólidos conhecimentos em geoprocessamento aplicado à área ambiental, cartografia, topografia, sensoriamento remoto e fotogrametria, além de habilidades em organização e análise de bases de dados espaciais, noções de programação, geoestatística, capacidade analítica, resolutiva e postura proativa.",
+    "source": "www.glassdoor.com.br",
+    "category": "environmental",
+    "score": 72,
+    "status": "new",
+    "first_seen": "2026-07-24T12:19:05.010262+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 220,
+    "fingerprint": "322acbebbb9c01ed30cb6ca6fc2baad54964972e34417055ac83bd386b2d801e",
+    "title": "Iniciativa Verde - Vagas abertas para trabalhar na Iniciativa Verde",
+    "organization": "Iniciativaverde",
+    "url": "https://iniciativaverde.org.br/noticias/vagas",
+    "snippet": "June 25, 2021 - A Iniciativa Verde é uma associação baseada em São Paulo, que atua desde 2005 em temas como mudanças climáticas e a melhoria na provisão de serviços ecossistêmicos. Seus principais enfoques são a restauração da vegetação nativa ...",
+    "source": "iniciativaverde.org.br",
+    "category": "environmental",
+    "score": 72,
+    "status": "new",
+    "first_seen": "2026-07-24T12:19:05.010262+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 3013,
@@ -2063,13 +2119,13 @@
     "title": "565 Capítulo 26 Restauração ecológica como estratégia de resgate",
     "organization": "Esalqlastrop",
     "url": "https://esalqlastrop.com.br/img/publicacoes/C1.pdf",
-    "snippet": "Universidade de São Paulo, Escola Superior de Agricultura ‘Luiz de Queiroz’, Departamento de Ciências Biológicas, Laboratório de ... Em paisagens fragmentadas e degradadas (i.e. as paisagens antrópicas) inseridas em · regiões tropicais, apenas a proteção dos poucos fragmentos florestais remanescentes · pode não ser suficiente para a devida conservação da biodiversidade ...",
+    "snippet": "Universidade de São Paulo, Escola Superior de Agricultura ‘Luiz de Queiroz’, Departamento de Ciências Biológicas, Laboratório de ... Em paisagens fragmentadas e degradadas (i.e. as paisagens antrópicas) inseridas em · regiões tropicais, apenas a proteção dos poucos fragmentos florestais remanescentes · pode não ser suficiente para a devida conservação da biodiversidade em médio e longo",
     "source": "esalqlastrop.com.br",
     "category": "environmental",
     "score": 70,
     "status": "new",
     "first_seen": "2026-08-05T12:52:42.459664+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 40,
@@ -2254,20 +2310,6 @@
     "last_seen": "2026-08-10T11:47:18.383002+00:00"
   },
   {
-    "id": 220,
-    "fingerprint": "322acbebbb9c01ed30cb6ca6fc2baad54964972e34417055ac83bd386b2d801e",
-    "title": "Iniciativa Verde - Vagas abertas para trabalhar na Iniciativa Verde",
-    "organization": "Iniciativaverde",
-    "url": "https://iniciativaverde.org.br/noticias/vagas",
-    "snippet": "June 25, 2021 - A Iniciativa Verde é uma associação baseada em São Paulo, que atua desde 2005 em temas como mudanças climáticas e a melhoria na provisão de serviços ecossistêmicos. Seus principais enfoques são a restauração da vegetação nativa ...",
-    "source": "iniciativaverde.org.br",
-    "category": "environmental",
-    "score": 64,
-    "status": "new",
-    "first_seen": "2026-07-24T12:19:05.010262+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
-  },
-  {
     "id": 1017,
     "fingerprint": "5d222c9c2f03eb888d0a67edf5de82943f0276d36e5a9f7c61c5e85c8f6a9676",
     "title": "Serviços ambientais - Portal Embrapa",
@@ -2321,7 +2363,7 @@
     "score": 62,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 679,
@@ -2329,13 +2371,13 @@
     "title": "Restauração Ecológica e proteção da Biodiversidade",
     "organization": "Infraestruturameioambiente",
     "url": "https://www.infraestruturameioambiente.sp.gov.br/ipa/2023/04/restauracao-ecologica-e-protecao-da-biodiversidade/",
-    "snippet": "Para recuperar matas, florestas e demais formas de vegetação é indispensável adotar medidas abrangentes e constantes, que contar com suporte técnico, profissionais capacitados, informação consistente, pesquisa, planejamento, recursos financeiros, tecnologias adequadas e políticas públicas atentas à preservação e conservação do meio ambiente, como demonstra o estudo de “Análise de processos de restauração ecológica” desenvolvido por pesquisadores do Instituto de Pesquisas Ambientais (IPA). O objetivo central deste módulo de pesquisa é avaliar o comportamento de diferentes técnicas de restauro em territórios paulistas, incluindo as áreas de Mata Atlântica e de Cerrado, e, a partir dos dados obtidos, desenvolver novas modelagens e tecnologias capazes de promover a restauração ecológica, tanto em áreas urbanas, como em propriedades rurais.",
+    "snippet": "Trata-se da “Lista de Espécies indicadas para restauração ecológica para diversas regiões do estado de São Paulo”, resultado de mais de três décadas de pesquisa e de parcerias entre pesquisadores e instituições de todo o país, ...",
     "source": "www.infraestruturameioambiente.sp.gov.br",
     "category": "environmental",
     "score": 62,
     "status": "new",
     "first_seen": "2026-07-31T12:56:08.948566+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 682,
@@ -2343,13 +2385,13 @@
     "title": "SP lança programa de restauração com créditos de carbono e biodiversidade",
     "organization": "Semil",
     "url": "https://semil.sp.gov.br/2025/09/governo-de-sp-lanca-programa-pioneiro-de-restauracao-e-conservacao-com-pagamento-em-creditos-de-carbono-e-biodiversidade/",
-    "snippet": "O programa permitirá a restauração de áreas degradadas e a conservação de ecossistemas em unidades de conservação, florestas estaduais e outras terras públicas de interesse ambiental, remunerando os prestadores de serviços por meio da cessão do direito de exploração de créditos de carbono, créditos de biodiversidade e outros ativos ambientais gerados nos projetos. O modelo escolhido por São Paulo ...",
+    "snippet": "O programa permitirá a restauração de áreas degradadas e a conservação de ecossistemas em unidades de conservação, florestas estaduais e outras terras públicas de interesse ambiental, remunerando os prestadores de serviços por meio da cessão do direito de exploração de créditos de carbono, créditos de biodiversidade e outros ativos ambientais gerados nos projetos. O modelo escolhido por São Paulo para a operacionalização do programa foi o de Pagamento por Serviços Ambientais (PSA), considerado menos burocrático e mais eficiente.",
     "source": "semil.sp.gov.br",
     "category": "environmental",
     "score": 62,
     "status": "new",
     "first_seen": "2026-07-31T12:56:08.948566+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 683,
@@ -2363,7 +2405,7 @@
     "score": 62,
     "status": "new",
     "first_seen": "2026-07-31T12:56:08.948566+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 684,
@@ -2377,7 +2419,7 @@
     "score": 62,
     "status": "new",
     "first_seen": "2026-07-31T12:56:08.948566+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 1000,
@@ -2391,7 +2433,7 @@
     "score": 62,
     "status": "new",
     "first_seen": "2026-08-05T12:52:42.459664+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 1004,
@@ -2405,7 +2447,7 @@
     "score": 62,
     "status": "new",
     "first_seen": "2026-08-05T12:52:42.459664+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 1005,
@@ -2413,13 +2455,27 @@
     "title": "Governo de SP lança programa pioneiro de restauração e conservação com pagamento em créditos de carbono e biodiversidade - Agência SP",
     "organization": "Agenciasp",
     "url": "https://www.agenciasp.sp.gov.br/governo-de-sp-lanca-programa-pioneiro-de-restauracao-e-conservacao-com-pagamento-em-creditos-de-carbono-e-biodiversidade/",
-    "snippet": "September 29, 2025 - O programa permitirá a restauração de áreas degradadas e a conservação de ecossistemas em unidades de conservação, florestas estaduais e outras terras públicas de interesse ambiental, remunerando os prestadores de serviços por meio da cessão do direito de exploração de créditos de carbono, créditos de biodiversidade e outros ativos ambientais gerados nos projetos. O modelo escolhido por São Paulo para a operacionalização do programa foi o de Pagamento por Serviços Ambientais (PSA), considerado menos burocrático e mais eficiente.",
+    "snippet": "September 29, 2025 - Governo de São Paulo segue como referência nacional em Pagamento por Serviços Ambientais (PSAs), política que remunera comunidades e produtores por ações de conservação ... O Governo de São Paulo, por meio da Secretaria de Meio Ambiente, Infraestrutura e Logística do Estado de São Paulo (Semil), lançou nesta segunda-feira (29), em evento com investidores na Casa Fasano, o Programa Estadual de Restauração e Conservação Ecológica, iniciativa inédita e inovadora no país que integra preservação ambiental e economia verde.",
     "source": "www.agenciasp.sp.gov.br",
     "category": "environmental",
     "score": 62,
     "status": "new",
     "first_seen": "2026-08-05T12:52:42.459664+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 2643,
+    "fingerprint": "6f786d773c1be6bae05d0d18eafd8c59ea10269d0639959f69d4c30df55d8de7",
+    "title": "Restaurar para conservar: Restauração ecológica em ecossistemas florestais do estado de São Paulo",
+    "organization": "Infraestruturameioambiente",
+    "url": "https://www.infraestruturameioambiente.sp.gov.br/institutodebotanica/2018/07/restaurar-para-conservar-restauracao-ecologica-em-ecossistemas-florestais-do-estado-de-sao-paulo/",
+    "snippet": "July 12, 2018 - Este fator certamente dará ... e conservação da biodiversidade. Além disso, as pesquisas têm possibilitado testar teorias ecológicas, monitorar áreas em processo de restauração e áreas diretamente afetadas por grandes obras, como o Rodoanel Mário Covas em São Paulo, além de ...",
+    "source": "www.infraestruturameioambiente.sp.gov.br",
+    "category": "environmental",
+    "score": 62,
+    "status": "new",
+    "first_seen": "2026-09-02T14:59:26.105137+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 2902,
@@ -2616,20 +2672,6 @@
     "status": "new",
     "first_seen": "2026-09-09T15:01:42.194721+00:00",
     "last_seen": "2026-09-09T15:01:42.194721+00:00"
-  },
-  {
-    "id": 2643,
-    "fingerprint": "6f786d773c1be6bae05d0d18eafd8c59ea10269d0639959f69d4c30df55d8de7",
-    "title": "Restaurar para conservar: Restauração ecológica em ecossistemas florestais do estado de São Paulo",
-    "organization": "Infraestruturameioambiente",
-    "url": "https://www.infraestruturameioambiente.sp.gov.br/institutodebotanica/2018/07/restaurar-para-conservar-restauracao-ecologica-em-ecossistemas-florestais-do-estado-de-sao-paulo/",
-    "snippet": "July 12, 2018 - Este fator certamente dará ... e conservação da biodiversidade. Além disso, as pesquisas têm possibilitado testar teorias ecológicas, monitorar áreas em processo de restauração e áreas diretamente afetadas por grandes obras, como o Rodoanel Mário Covas em São Paulo, além de ...",
-    "source": "www.infraestruturameioambiente.sp.gov.br",
-    "category": "environmental",
-    "score": 62,
-    "status": "new",
-    "first_seen": "2026-09-02T14:59:26.105137+00:00",
-    "last_seen": "2026-09-02T14:59:26.105137+00:00"
   },
   {
     "id": 516,
@@ -3217,7 +3259,7 @@
     "score": 61,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 79,
@@ -4001,7 +4043,7 @@
     "score": 60,
     "status": "new",
     "first_seen": "2026-07-24T12:19:05.010262+00:00",
-    "last_seen": "2026-09-18T14:48:01.246728+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 811,
@@ -4023,13 +4065,13 @@
     "title": "17 vagas de professor de biologia – São Paulo | Glassdoor",
     "organization": "Glassdoor",
     "url": "https://www.glassdoor.com.br/Vaga/são-paulo-professor-de-biologia-vagas-SRCH_IL.0,9_IM1009_KO10,31.htm",
-    "snippet": "Vagas de professor(a) de ciências – São Paulo, São PauloVagas – São Paulo, São PauloVagas na empresa Jobbol – São Paulo, São Paulo ... Avaliações de funcionários da empresa JobbolExperiência de entrevista da empresa JobbolTrabalhando na Jobbol · Seleção Docentes MedicinaProfessor(a) Universitário(a) Presencial – Medicina | Mecanismos Celulares e Moleculares I ... Graduação em Medicina, Biomedicina, Ciências Biológicas, Bioquímica, Farmácia, Enfermagem ou áreas correlatas da Saúde;…",
+    "snippet": "Procure vagas de Professor de biologia em São Paulo. Veja salários e avaliações de empresas, além de 17 vagas abertas de Professor de biologia em São Paulo.",
     "source": "www.glassdoor.com.br",
     "category": "universities",
     "score": 59,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 2946,
@@ -4102,18 +4144,18 @@
     "last_seen": "2026-08-05T12:52:42.459664+00:00"
   },
   {
-    "id": 3594,
-    "fingerprint": "0bd75603683da7bf74e70454e5ff1b38776714202af482efb7fb80bc65ac8863",
-    "title": "Emprego Engenheiro Ambiental em Home Office - agrobase.com.br",
-    "organization": "Agrobase",
-    "url": "https://www.agrobase.com.br/oportunidades/vagas/emprego-engenharia-ambiental/local-home-office/",
-    "snippet": "Analista ambiental (foco em geoprocessamento) - Uberlândia/MG [home office] Home Office, Minas Gerais Efetivo (CLT) 04",
-    "source": "www.agrobase.com.br",
+    "id": 24,
+    "fingerprint": "289084fc5ac4505f39d8d82335d489d49bc51234775bde4e8284ca7af3d3e6d2",
+    "title": "97 vaga(s) de Analista ambiental remoto – Brasil - Glassdoor",
+    "organization": "Glassdoor",
+    "url": "https://www.glassdoor.com.br/Vaga/brasil-analista-ambiental-remoto-vagas-SRCH_IL.0,6_IN36_KO7,32.htm",
+    "snippet": "Exercer todas as atividades de Analista do Setor; Processamento de dados diversos; Análise de paisagens; Sensoriamento remoto; Analise Ambiental; Elaboração…… ... Vagas – Porto Velho, RondôniaVagas na empresa CENTRO DE ESTUDOS DA CULTURA E DO MEIO AMBIENTE DA AMAZÔNIA RIO TERRA – Porto Velho, Rondônia",
+    "source": "www.glassdoor.com.br",
     "category": "environmental",
     "score": 57,
     "status": "new",
-    "first_seen": "2026-09-21T16:48:46.383246+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "first_seen": "2026-07-22T12:25:17.372839+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 1759,
@@ -4127,7 +4169,21 @@
     "score": 57,
     "status": "new",
     "first_seen": "2026-08-17T11:25:52.728858+00:00",
-    "last_seen": "2026-09-18T14:48:01.246728+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 3594,
+    "fingerprint": "0bd75603683da7bf74e70454e5ff1b38776714202af482efb7fb80bc65ac8863",
+    "title": "Emprego Engenheiro Ambiental em Home Office - agrobase.com.br",
+    "organization": "Agrobase",
+    "url": "https://www.agrobase.com.br/oportunidades/vagas/emprego-engenharia-ambiental/local-home-office/",
+    "snippet": "Analista ambiental (foco em geoprocessamento) - Uberlândia/MG [home office] Home Office, Minas Gerais Efetivo (CLT) 04",
+    "source": "www.agrobase.com.br",
+    "category": "environmental",
+    "score": 57,
+    "status": "new",
+    "first_seen": "2026-09-21T16:48:46.383246+00:00",
+    "last_seen": "2026-09-21T16:48:46.383246+00:00"
   },
   {
     "id": 3115,
@@ -4281,7 +4337,7 @@
     "score": 53,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 139,
@@ -4295,7 +4351,7 @@
     "score": 53,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 140,
@@ -4309,7 +4365,7 @@
     "score": 53,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 2870,
@@ -4645,7 +4701,21 @@
     "score": 52,
     "status": "new",
     "first_seen": "2026-07-27T13:39:36.802639+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 3711,
+    "fingerprint": "f7d26fc7eb4d9a9334f3d9afe3db2c427706a5a99c00dcea975d8e3dd34c1561",
+    "title": "Benefícios dos Serviços Ecossistêmicos Culturais no Parque Nacional de Brasília | Revista Campo-Território",
+    "organization": "Seer",
+    "url": "https://seer.ufu.br/index.php/campoterritorio/article/view/79797",
+    "snippet": "November 14, 2025 - Tem experiência na área de Geografia ... Gerenciamento de Resíduos Sólidos Urbanos; Comunidades Tradicionais; Gestão de Unidades de Conservação; Serviços Ecossistêmicos; Educação ......",
+    "source": "seer.ufu.br",
+    "category": "environmental",
+    "score": 52,
+    "status": "new",
+    "first_seen": "2026-09-23T15:19:54.425894+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 2615,
@@ -4771,7 +4841,7 @@
     "score": 51,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 314,
@@ -4785,7 +4855,7 @@
     "score": 51,
     "status": "new",
     "first_seen": "2026-07-24T12:19:05.010262+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 394,
@@ -4799,7 +4869,7 @@
     "score": 51,
     "status": "new",
     "first_seen": "2026-07-27T13:39:36.802639+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 398,
@@ -4807,13 +4877,13 @@
     "title": "84 vaga(s) de Professor de biologia – Brasil | Glassdoor",
     "organization": "Glassdoor",
     "url": "https://www.glassdoor.com.br/Vaga/professor-de-biologia-vagas-SRCH_KO0,21.htm",
-    "snippet": "Salários do cargo de professor(a) universitário(a) de biologia (Jundiaí) ... Professores de todos os segmentos e todas as disciplinas (PORTUGUÊS, MATEMÁTICA, FÍSICA, QUÍMICA, HISTÓRIA, GEOGRAFIA, PRODUÇÃO DE TEXTO, INGLÊS, BIOLOGIA,…… ... Vagas de professor(a) – São Paulo, ...",
+    "snippet": "Salários do cargo de professor(a) universitário(a) de biologia (Jundiaí) ... Professores de todos os segmentos e todas as disciplinas (PORTUGUÊS, MATEMÁTICA, FÍSICA, QUÍMICA, HISTÓRIA, GEOGRAFIA, PRODUÇÃO DE TEXTO, INGLÊS, BIOLOGIA,…… ... Vagas de professor(a) – São Paulo, São PauloVagas – São Paulo, São PauloVagas na empresa Recruta Simples – São Paulo, São Paulo",
     "source": "www.glassdoor.com.br",
     "category": "universities",
     "score": 51,
     "status": "new",
     "first_seen": "2026-07-27T13:39:36.802639+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 403,
@@ -4827,7 +4897,7 @@
     "score": 51,
     "status": "new",
     "first_seen": "2026-07-27T13:39:36.802639+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 3656,
@@ -4841,7 +4911,7 @@
     "score": 51,
     "status": "new",
     "first_seen": "2026-09-21T16:48:46.383246+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 2743,
@@ -5236,20 +5306,6 @@
     "last_seen": "2026-07-22T12:25:17.372839+00:00"
   },
   {
-    "id": 19,
-    "fingerprint": "f57907e7936b0f4ba3e6064e0d897e28120f2f8189245a903420cd3337809af2",
-    "title": "Vagas de Analista Ambiental em Remoto, Brasil | Indeed",
-    "organization": "Br",
-    "url": "https://br.indeed.com/q-analista-ambiental-l-remoto,-brasil-vagas.html?vjk=0ff6f3acdd80c56a",
-    "snippet": "Ver todas as Vagas de emprego: TETRA TECH COFFEY CONSULTORIA E SERVIÇOS LTDA. - vagas para São Paulo - Vagas de emprego: Analista Ambiental - São Paulo, SP Busca por salário: salários de Especialista Ambiental JR - São Paulo, SP Confira as principais perguntas sobre a empresa TETRA TECH COFFEY CONSULTORIA E SERVIÇOS LTDA.",
-    "source": "br.indeed.com",
-    "category": "environmental",
-    "score": 50,
-    "status": "new",
-    "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
-  },
-  {
     "id": 221,
     "fingerprint": "b65a44df88d453a45de760c28949312d06e294a9c671345710fbf00d0dbea24f",
     "title": "Vagas de Emprego de Meio Ambiente, Ecologia em São Paulo - SP | Infojobs",
@@ -5261,7 +5317,7 @@
     "score": 50,
     "status": "new",
     "first_seen": "2026-07-24T12:19:05.010262+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 1013,
@@ -5275,7 +5331,7 @@
     "score": 50,
     "status": "new",
     "first_seen": "2026-08-05T12:52:42.459664+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 1024,
@@ -5289,6 +5345,34 @@
     "score": 50,
     "status": "new",
     "first_seen": "2026-08-05T12:52:42.459664+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 3716,
+    "fingerprint": "193dae69ddeff4599006877cd38c24dd6a2a256382f1b9ce4cc5ba6f71aea0e1",
+    "title": "BIODIVERSIDADE E SERVIÇOS ECOSSISTÊMICOS: TEMAS INDISSOCIÁVEIS E",
+    "organization": "Repositorio",
+    "url": "https://repositorio.ipea.gov.br/server/api/core/bitstreams/dc1849a3-be5c-43c7-8602-70104fb41eff/content",
+    "snippet": "3. Técnico de planejamento e pesquisa na Cosam/Dirur/Ipea. ... A força das ligações e o potencial para mediação variam em diferentes ecossistemas e regiões. Além da influência dos serviços ecossistêmicos, outros fatores – ambientais, econômicos,",
+    "source": "repositorio.ipea.gov.br",
+    "category": "environmental",
+    "score": 50,
+    "status": "new",
+    "first_seen": "2026-09-23T15:19:54.425894+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 19,
+    "fingerprint": "f57907e7936b0f4ba3e6064e0d897e28120f2f8189245a903420cd3337809af2",
+    "title": "Vagas de Analista Ambiental em Remoto, Brasil | Indeed",
+    "organization": "Br",
+    "url": "https://br.indeed.com/q-analista-ambiental-l-remoto,-brasil-vagas.html?vjk=0ff6f3acdd80c56a",
+    "snippet": "Ver todas as Vagas de emprego: TETRA TECH COFFEY CONSULTORIA E SERVIÇOS LTDA. - vagas para São Paulo - Vagas de emprego: Analista Ambiental - São Paulo, SP Busca por salário: salários de Especialista Ambiental JR - São Paulo, SP Confira as principais perguntas sobre a empresa TETRA TECH COFFEY CONSULTORIA E SERVIÇOS LTDA.",
+    "source": "br.indeed.com",
+    "category": "environmental",
+    "score": 50,
+    "status": "new",
+    "first_seen": "2026-07-22T12:25:17.372839+00:00",
     "last_seen": "2026-09-21T16:48:46.383246+00:00"
   },
   {
@@ -5437,13 +5521,13 @@
     "title": "Mapeamento dos Serviços Ecossistêmicos providos pela ...",
     "organization": "Scielo",
     "url": "https://www.scielo.br/j/asoc/a/VdjGmkPcZS6kK9ccthfNGxS/?format=pdf&lang=pt",
-    "snippet": "Mapeamento dos Serviços Ecossistêmicos providos pela Área de Proteção Ambiental do Rio Paraíba do Sul · Ambiente & Sociedade • São Paulo. Vol. 25, 2022 • Artigo Original ... Ambiente & Sociedade • São Paulo. Vol. 25, 2022 • Artigo Original ...",
+    "snippet": "Palavras-chave: Serviços ecossistêmicos, estudo colaborativo, Área de · Proteção Ambiental, políticas públicas e meio ambiente, planejamento · territorial. São Paulo. Vol. 25, 2022 · Artigo Original · DOI: http://dx.doi.org/10.1590/1809-4422asoc20210188r2vu2022L2AO · I Instituto ...",
     "source": "www.scielo.br",
     "category": "environmental",
     "score": 48,
     "status": "new",
     "first_seen": "2026-08-19T11:24:56.662768+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 52,
@@ -7070,20 +7154,6 @@
     "last_seen": "2026-08-21T11:26:09.847534+00:00"
   },
   {
-    "id": 1054,
-    "fingerprint": "23375db3499a486b3a60ae20633b271da8483b0be81ef58d38f711007e50499d",
-    "title": "21 vagas de Geoprocessamento em: São Paulo e Região",
-    "organization": "Br",
-    "url": "https://br.linkedin.com/jobs/geoprocessamento-vagas-são-paulo-e-região",
-    "snippet": "21 principais vagas de Geoprocessamento hoje em São Paulo e Região. Aproveite sua rede profissional e seja contratado. Novas vagas de Geoprocessamento adicionadas diariamente.",
-    "source": "br.linkedin.com",
-    "category": "universities",
-    "score": 43,
-    "status": "new",
-    "first_seen": "2026-08-05T12:52:42.459664+00:00",
-    "last_seen": "2026-08-19T11:24:56.662768+00:00"
-  },
-  {
     "id": 1982,
     "fingerprint": "edc3380343de5d3330c799325bfa775885c2ec33ad8b95087e4d9b2a36f61479",
     "title": "Vagas de emprego Professor de geografia São Paulo (estado)",
@@ -7504,6 +7574,48 @@
     "last_seen": "2026-07-24T12:19:05.010262+00:00"
   },
   {
+    "id": 13,
+    "fingerprint": "7abc5edc94119be08af251d94d32adf47e83d7647bbce77c89d75accffc6e05d",
+    "title": "Vagas de Analista Ambiental em Brasil (572 vagas)",
+    "organization": "Br",
+    "url": "https://br.linkedin.com/jobs/analista-ambiental-vagas",
+    "snippet": "As 595 melhores vagas de Analista Ambiental de hoje em: Brasil. Aproveite sua rede profissional para conseguir um emprego. Novas vagas de Analista Ambiental adicionadas diariamente.",
+    "source": "br.linkedin.com",
+    "category": "environmental",
+    "score": 42,
+    "status": "new",
+    "first_seen": "2026-07-22T12:25:17.372839+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 177,
+    "fingerprint": "8921fbd714266c3be2ecfca1ae506a18204bd00d454aa8d09a73e9ae273b8c1f",
+    "title": "Vagas de Analista GIS GIS | Indeed",
+    "organization": "Br",
+    "url": "https://br.indeed.com/q-analista-gis-gis-vagas.html",
+    "snippet": "Ver todas as Vagas de emprego: ... – Vagas de emprego: Auditor - Remoto · Busca por salário: salários de R - Auditor Junior ESG - Remoto · Buscamos uma pessoa Analista de Processo Ambiental I para integrar nosso time de Gestão de Meio Ambiente. No Brasil, a ENGIE é ...",
+    "source": "br.indeed.com",
+    "category": "environmental",
+    "score": 42,
+    "status": "new",
+    "first_seen": "2026-07-24T12:19:05.010262+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 1300,
+    "fingerprint": "81f21c85ba93242be17a9dc7f8bffe884a00a3a8ca7bc51a1ecfc787f2123519",
+    "title": "Vagas de Qgis | Indeed",
+    "organization": "Br",
+    "url": "https://br.indeed.com/q-qgis-vagas.html",
+    "snippet": "Ver todas as Vagas de emprego: Crescendo.ai – vagas para Remoto – Vagas de emprego: GIS Analyst - Remoto · Busca por salário: salários de GIS Analyst Support · Formação superior completa ou em andamento em Engenharia Ambiental, Engenharia Florestal, Engenharia Agronômica, Geografia, ...",
+    "source": "br.indeed.com",
+    "category": "environmental",
+    "score": 42,
+    "status": "new",
+    "first_seen": "2026-08-10T11:47:18.383002+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
     "id": 15,
     "fingerprint": "b65cd87cf99dd768a819b5514aa0cfa2d6ce2229f9ed556deb8f51c54eb48419",
     "title": "53 vaga (s) de Analista ambiental - Brasil - home office",
@@ -7574,20 +7686,6 @@
     "last_seen": "2026-09-21T16:48:46.383246+00:00"
   },
   {
-    "id": 24,
-    "fingerprint": "289084fc5ac4505f39d8d82335d489d49bc51234775bde4e8284ca7af3d3e6d2",
-    "title": "97 vaga(s) de Analista ambiental remoto – Brasil - Glassdoor",
-    "organization": "Glassdoor",
-    "url": "https://www.glassdoor.com.br/Vaga/brasil-analista-ambiental-remoto-vagas-SRCH_IL.0,6_IN36_KO7,32.htm",
-    "snippet": "Procure vagas de Analista ambiental remoto em Brasil. Veja salários e avaliações de empresas, além de 102 vagas abertas de Analista ambiental remoto em Brasil.",
-    "source": "www.glassdoor.com.br",
-    "category": "environmental",
-    "score": 42,
-    "status": "new",
-    "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
-  },
-  {
     "id": 3116,
     "fingerprint": "068059ccd3d52a1bd1c62e3eab8fd72aded8ebd27768a31eed71802172b38c23",
     "title": "Vagas de emprego Analista ambiental Home office - Jooble",
@@ -7628,62 +7726,6 @@
     "status": "new",
     "first_seen": "2026-09-21T16:48:46.383246+00:00",
     "last_seen": "2026-09-21T16:48:46.383246+00:00"
-  },
-  {
-    "id": 13,
-    "fingerprint": "7abc5edc94119be08af251d94d32adf47e83d7647bbce77c89d75accffc6e05d",
-    "title": "Vagas de Analista Ambiental em Brasil (572 vagas)",
-    "organization": "Br",
-    "url": "https://br.linkedin.com/jobs/analista-ambiental-vagas",
-    "snippet": "As 595 melhores vagas de Analista Ambiental de hoje em: Brasil. Aproveite sua rede profissional para conseguir um emprego. Novas vagas de Analista Ambiental adicionadas diariamente.",
-    "source": "br.linkedin.com",
-    "category": "environmental",
-    "score": 42,
-    "status": "new",
-    "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-18T14:48:01.246728+00:00"
-  },
-  {
-    "id": 177,
-    "fingerprint": "8921fbd714266c3be2ecfca1ae506a18204bd00d454aa8d09a73e9ae273b8c1f",
-    "title": "Vagas de Analista GIS GIS | Indeed",
-    "organization": "Br",
-    "url": "https://br.indeed.com/q-analista-gis-gis-vagas.html",
-    "snippet": "Ver todas as Vagas de emprego: ... – Vagas de emprego: Auditor - Remoto · Busca por salário: salários de R - Auditor Junior ESG - Remoto · Buscamos uma pessoa Analista de Processo Ambiental I para integrar nosso time de Gestão de Meio Ambiente. No Brasil, a ENGIE é ...",
-    "source": "br.indeed.com",
-    "category": "environmental",
-    "score": 42,
-    "status": "new",
-    "first_seen": "2026-07-24T12:19:05.010262+00:00",
-    "last_seen": "2026-09-18T14:48:01.246728+00:00"
-  },
-  {
-    "id": 182,
-    "fingerprint": "e9b88f8096c73352c7955a146ffbd27f0ad4703ebb51b9ee221f27f49059a6cb",
-    "title": "28 vaga(s) de Analista geoespacial – Brasil | Glassdoor",
-    "organization": "Glassdoor",
-    "url": "https://www.glassdoor.com.br/Vaga/analista-geoespacial-vagas-SRCH_KO0,20.htm",
-    "snippet": "Atuar no planejamento, execução de análises geoespaciais aplicadas a estudos ambientais e processos de licenciamento. Café da manhã na empresa;… Habilidades: ArcGIS, AutoCAD, Inglês, Banco de Dados, GPS ... Vagas de engenheiro(a) ambiental – Belo Horizonte, Minas GeraisVagas – Belo Horizonte, Minas GeraisVagas na empresa Consominas Engenharia – Belo Horizonte, Minas Gerais",
-    "source": "www.glassdoor.com.br",
-    "category": "environmental",
-    "score": 42,
-    "status": "new",
-    "first_seen": "2026-07-24T12:19:05.010262+00:00",
-    "last_seen": "2026-09-18T14:48:01.246728+00:00"
-  },
-  {
-    "id": 1300,
-    "fingerprint": "81f21c85ba93242be17a9dc7f8bffe884a00a3a8ca7bc51a1ecfc787f2123519",
-    "title": "Vagas de Qgis | Indeed",
-    "organization": "Br",
-    "url": "https://br.indeed.com/q-qgis-vagas.html",
-    "snippet": "Ver todas as Vagas de emprego: Crescendo.ai – vagas para Remoto – Vagas de emprego: GIS Analyst - Remoto · Busca por salário: salários de GIS Analyst Support · Formação superior completa ou em andamento em Engenharia Ambiental, Engenharia Florestal, Engenharia Agronômica, Geografia, Gestão Ambiental ou áreas correlatas…",
-    "source": "br.indeed.com",
-    "category": "environmental",
-    "score": 42,
-    "status": "new",
-    "first_seen": "2026-08-10T11:47:18.383002+00:00",
-    "last_seen": "2026-09-18T14:48:01.246728+00:00"
   },
   {
     "id": 3275,
@@ -8201,7 +8243,7 @@
     "score": 40,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 58,
@@ -8215,7 +8257,7 @@
     "score": 40,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 59,
@@ -8229,7 +8271,7 @@
     "score": 40,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 66,
@@ -8243,7 +8285,7 @@
     "score": 40,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 222,
@@ -8257,7 +8299,7 @@
     "score": 40,
     "status": "new",
     "first_seen": "2026-07-24T12:19:05.010262+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 224,
@@ -8271,7 +8313,7 @@
     "score": 40,
     "status": "new",
     "first_seen": "2026-07-24T12:19:05.010262+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 226,
@@ -8285,7 +8327,7 @@
     "score": 40,
     "status": "new",
     "first_seen": "2026-07-24T12:19:05.010262+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 229,
@@ -8299,7 +8341,7 @@
     "score": 40,
     "status": "new",
     "first_seen": "2026-07-24T12:19:05.010262+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 378,
@@ -8313,7 +8355,7 @@
     "score": 40,
     "status": "new",
     "first_seen": "2026-07-27T13:39:36.802639+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 1012,
@@ -8327,7 +8369,49 @@
     "score": 40,
     "status": "new",
     "first_seen": "2026-08-05T12:52:42.459664+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 1023,
+    "fingerprint": "b891e45325567e55f0b7268acf299c10dc15c1258045ce7aba257f7bb1c63571",
+    "title": "51 vagas de ongs em – São Paulo, SP | Glassdoor",
+    "organization": "Glassdoor",
+    "url": "https://www.glassdoor.com.br/Vaga/são-paulo-ongs-em-vagas-SRCH_IL.0,9_IC2479061_KO10,17.htm",
+    "snippet": "Procure vagas de Ongs em em São Paulo, SP. Veja salários e avaliações de empresas, além de 51 vagas abertas de Ongs em em São Paulo.",
+    "source": "www.glassdoor.com.br",
+    "category": "environmental",
+    "score": 40,
+    "status": "new",
+    "first_seen": "2026-08-05T12:52:42.459664+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 1028,
+    "fingerprint": "a8a78a030e2c6c6df0a39a3271a812a96ea3c5cda939e4bf4991f3740ca93e30",
+    "title": "Vagas de Ong ambiental (Urgente!) - 2026 - Jooble",
+    "organization": "Br",
+    "url": "https://br.jooble.org/vagas-de-emprego-ong-ambiental",
+    "snippet": "...Vaga:Analista Ambiental Área:Segurança do Trabalho Carga Horária:220h mensais Principais Atribuições:Assessorar a empresa na implementação, manutenção e evolução da gestão ambiental, sob coordenação do responsável pelo setor ...",
+    "source": "br.jooble.org",
+    "category": "environmental",
+    "score": 40,
+    "status": "new",
+    "first_seen": "2026-08-05T12:52:42.459664+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
+  },
+  {
+    "id": 1800,
+    "fingerprint": "d1503d5a21fdf7a3bbdbb0b5351c59b00b3aadea4435e3b3f0acd70b83f95e5a",
+    "title": "avaliação do capital natural e da demanda e oferta de serviços ...",
+    "organization": "Abes Dn",
+    "url": "https://abes-dn.org.br/anaiseletronicos/45_Download/TrabalhosCompletosPDF/VI-183.pdf",
+    "snippet": "Nesse contexto, o planejamento territorial na RMC deve ser pensado tendo em vista os fluxos de serviços · ecossistêmicos.",
+    "source": "abes-dn.org.br",
+    "category": "environmental",
+    "score": 40,
+    "status": "new",
+    "first_seen": "2026-08-17T11:25:52.728858+00:00",
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 1014,
@@ -8341,34 +8425,6 @@
     "score": 40,
     "status": "new",
     "first_seen": "2026-08-05T12:52:42.459664+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
-  },
-  {
-    "id": 1023,
-    "fingerprint": "b891e45325567e55f0b7268acf299c10dc15c1258045ce7aba257f7bb1c63571",
-    "title": "51 vagas de ongs em – São Paulo, SP | Glassdoor",
-    "organization": "Glassdoor",
-    "url": "https://www.glassdoor.com.br/Vaga/são-paulo-ongs-em-vagas-SRCH_IL.0,9_IC2479061_KO10,17.htm",
-    "snippet": "Vagas de desenvolvedor(a) java – São Paulo, São PauloVagas – São Paulo, São PauloVagas na empresa FCamara – São Paulo, São Paulo ... Avaliações de funcionários da empresa FCamaraExperiência de entrevista da empresa FCamaraTrabalhando na FCamara ... Implementar e acompanhar estratégias de ESG (Meio Ambiente, Social e Governança) aplicadas à realidade da agência de eventos, com foco na realização de eventos sustentáveis, gestão ética e responsável, e promoção da diversidade e inclusão em toda a cadeia produtiva.",
-    "source": "www.glassdoor.com.br",
-    "category": "environmental",
-    "score": 40,
-    "status": "new",
-    "first_seen": "2026-08-05T12:52:42.459664+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
-  },
-  {
-    "id": 1800,
-    "fingerprint": "d1503d5a21fdf7a3bbdbb0b5351c59b00b3aadea4435e3b3f0acd70b83f95e5a",
-    "title": "avaliação do capital natural e da demanda e oferta de serviços ...",
-    "organization": "Abes Dn",
-    "url": "https://abes-dn.org.br/anaiseletronicos/45_Download/TrabalhosCompletosPDF/VI-183.pdf",
-    "snippet": "Nesse contexto, compreender e valorar o capital natural e os serviços ecossistêmicos tem como objetivo · principal subsidiar uma melhor tomada de decisões, que resulte em melhores ações no que concerne o uso do · solo e dos recursos naturais (DALY et al, 2009), especialmente nas cidades ...",
-    "source": "abes-dn.org.br",
-    "category": "environmental",
-    "score": 40,
-    "status": "new",
-    "first_seen": "2026-08-17T11:25:52.728858+00:00",
     "last_seen": "2026-09-21T16:48:46.383246+00:00"
   },
   {
@@ -8481,20 +8537,6 @@
     "score": 40,
     "status": "new",
     "first_seen": "2026-07-31T12:56:08.948566+00:00",
-    "last_seen": "2026-09-11T14:51:42.700925+00:00"
-  },
-  {
-    "id": 1028,
-    "fingerprint": "a8a78a030e2c6c6df0a39a3271a812a96ea3c5cda939e4bf4991f3740ca93e30",
-    "title": "Vagas de Ong ambiental (Urgente!) - 2026 - Jooble",
-    "organization": "Br",
-    "url": "https://br.jooble.org/vagas-de-emprego-ong-ambiental",
-    "snippet": "Vagas de emprego novas para Ong ambiental. Salário competitivo. Vagas de período integral, temporário ou meio período para Ong ambiental. E-mail com alerta de vagas. O modo grátis, rápido e eficaz para achar emprego entre 304.000+ vagas atuais. Vagas de emprego nas melhores empresas brasileiras. Comece sua nova carreira agora!",
-    "source": "br.jooble.org",
-    "category": "environmental",
-    "score": 40,
-    "status": "new",
-    "first_seen": "2026-08-05T12:52:42.459664+00:00",
     "last_seen": "2026-09-11T14:51:42.700925+00:00"
   },
   {
@@ -9503,7 +9545,7 @@
     "score": 38,
     "status": "new",
     "first_seen": "2026-07-27T13:39:36.802639+00:00",
-    "last_seen": "2026-09-21T16:48:46.383246+00:00"
+    "last_seen": "2026-09-23T15:19:54.425894+00:00"
   },
   {
     "id": 1190,
