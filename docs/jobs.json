@@ -84,6 +84,34 @@
     "last_seen": "2026-08-21T11:26:09.847534+00:00"
   },
   {
+    "id": 7,
+    "fingerprint": "804c1719135e330bc999622b8b6e69e615a5b43cd04ae6132c0f26c245d3f34a",
+    "title": "175 vaga (s) de Geoprocessamento - Brasil | Glassdoor",
+    "organization": "Glassdoor",
+    "url": "https://www.glassdoor.com.br/Vaga/geoprocessamento-vagas-SRCH_KO0,16.htm",
+    "snippet": "Procure vagas de Geoprocessamento. Encontre a vaga perfeita de Geoprocessamento. Veja salários e avaliações de empresas, além de 175 vagas abertas de Geoprocessamento.",
+    "source": "www.glassdoor.com.br",
+    "category": "environmental",
+    "score": 90,
+    "status": "new",
+    "first_seen": "2026-07-22T12:25:17.372839+00:00",
+    "last_seen": "2026-10-30T16:56:48.253111+00:00"
+  },
+  {
+    "id": 320,
+    "fingerprint": "68750110ad0f3064a6849bb46d95c1b99c9bcd9e462ec00f70b66a8142ed8fab",
+    "title": "Analista sr de geoprocessamento e sensoriamento remoto - São Paulo/SP",
+    "organization": "Agrobase",
+    "url": "https://www.agrobase.com.br/oportunidades/2025/09/analista-sr-de-geoprocessamento-e-sensoriamento-remoto-sao-paulo-sp/",
+    "snippet": "Pós graduação em sistemas de gestão ambiental, geoprocessamento, fundiário ou sustentabilidade, bases de dados públicos, legislação ambiental vigente, gestão de dados, softwares de coleta e processamento de dados, ArcGIS/QGIS, algoritmos de Processamento Digital de Imagens de Sensoriamento Remoto, conhecimento intermediário em ...",
+    "source": "www.agrobase.com.br",
+    "category": "environmental",
+    "score": 90,
+    "status": "new",
+    "first_seen": "2026-07-27T13:39:36.802639+00:00",
+    "last_seen": "2026-10-30T16:56:48.253111+00:00"
+  },
+  {
     "id": 2755,
     "fingerprint": "88ccf566de9caf91bd0fdeb3ac7be7e8794e84f4bfa84226df6b99969f642682",
     "title": "Analista de geoprocessamento ESG - São Paulo/SP [híbrido]",
@@ -95,7 +123,7 @@
     "score": 90,
     "status": "new",
     "first_seen": "2026-09-04T14:49:57.137375+00:00",
-    "last_seen": "2026-10-28T17:00:23.104513+00:00"
+    "last_seen": "2026-10-30T16:56:48.253111+00:00"
   },
   {
     "id": 4007,
@@ -112,20 +140,6 @@
     "last_seen": "2026-10-28T17:00:23.104513+00:00"
   },
   {
-    "id": 320,
-    "fingerprint": "68750110ad0f3064a6849bb46d95c1b99c9bcd9e462ec00f70b66a8142ed8fab",
-    "title": "Analista sr de geoprocessamento e sensoriamento remoto - São Paulo/SP",
-    "organization": "Agrobase",
-    "url": "https://www.agrobase.com.br/oportunidades/2025/09/analista-sr-de-geoprocessamento-e-sensoriamento-remoto-sao-paulo-sp/",
-    "snippet": "Pós graduação em sistemas de gestão ambiental, geoprocessamento, fundiário ou sustentabilidade, bases de dados públicos, legislação ambiental vigente, gestão de dados, softwares de coleta e processamento de dados, ArcGIS/QGIS, algoritmos de Processamento Digital de Imagens de Sensoriamento Remoto, conhecimento intermediário em ...",
-    "source": "www.agrobase.com.br",
-    "category": "environmental",
-    "score": 90,
-    "status": "new",
-    "first_seen": "2026-07-27T13:39:36.802639+00:00",
-    "last_seen": "2026-10-26T17:08:32.503281+00:00"
-  },
-  {
     "id": 4120,
     "fingerprint": "ccb4bfed2442e3178abbe74afd13c7eeb6fa537c750cef70d08d9ffd02b313ea",
     "title": "Desenvolvedores de projetos de carbono | MRV e créditos AFOLU ...",
@@ -138,20 +152,6 @@
     "status": "new",
     "first_seen": "2026-10-05T19:31:01.608667+00:00",
     "last_seen": "2026-10-26T17:08:32.503281+00:00"
-  },
-  {
-    "id": 7,
-    "fingerprint": "804c1719135e330bc999622b8b6e69e615a5b43cd04ae6132c0f26c245d3f34a",
-    "title": "169 vaga (s) de Geoprocessamento - Brasil | Glassdoor",
-    "organization": "Glassdoor",
-    "url": "https://www.glassdoor.com.br/Vaga/geoprocessamento-vagas-SRCH_KO0,16.htm",
-    "snippet": "Procure vagas de Geoprocessamento. Encontre a vaga perfeita de Geoprocessamento. Veja salários e avaliações de empresas, além de 169 vagas abertas de Geoprocessamento.",
-    "source": "www.glassdoor.com.br",
-    "category": "environmental",
-    "score": 90,
-    "status": "new",
-    "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-10-16T15:15:20.633321+00:00"
   },
   {
     "id": 161,
@@ -700,6 +700,104 @@
     "last_seen": "2026-08-12T11:45:55.898839+00:00"
   },
   {
+    "id": 103,
+    "fingerprint": "74b92db3900e65bcaccf9734f786adfbf81cc0d4b2f9c13aa90877cbc9921d84",
+    "title": "Vagas de Geoprocessamento em São Paulo, São Paulo, Brasil (153 vagas ...",
+    "organization": "Br",
+    "url": "https://br.linkedin.com/jobs/geoprocessamento-vagas-são-paulo",
+    "snippet": "As 153 melhores vagas de Geoprocessamento hoje em São Paulo, São Paulo, Brasil. Aproveite sua rede profissional para conseguir emprego. Temos novas vagas de Geoprocessamento todos os dias.",
+    "source": "br.linkedin.com",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-07-22T12:25:17.372839+00:00",
+    "last_seen": "2026-10-30T16:56:48.253111+00:00"
+  },
+  {
+    "id": 1054,
+    "fingerprint": "23375db3499a486b3a60ae20633b271da8483b0be81ef58d38f711007e50499d",
+    "title": "Vagas de Geoprocessamento em São Paulo e Região (148 vagas ... - LinkedIn",
+    "organization": "Br",
+    "url": "https://br.linkedin.com/jobs/geoprocessamento-vagas-são-paulo-e-região",
+    "snippet": "As 148 melhores vagas de Geoprocessamento hoje em São Paulo e Região. Aproveite sua rede profissional para conseguir emprego. Temos novas vagas de Geoprocessamento todos os dias.",
+    "source": "br.linkedin.com",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-08-05T12:52:42.459664+00:00",
+    "last_seen": "2026-10-30T16:56:48.253111+00:00"
+  },
+  {
+    "id": 2147,
+    "fingerprint": "df65068ca779d449795c950f2f74a550e3ccc5dd7da3faa80eb877901cd24339",
+    "title": "Vagas de emprego sensoriamento remoto São Paulo, SP",
+    "organization": "Br",
+    "url": "https://br.jobsora.com/empregos-sensoriamento-remoto-são-paulo-sp",
+    "snippet": "Pesquise e inscreva-se nas últimas vagas de sensoriamento remoto. Empregadores verificados. Salário competitivo. Alertas de e-mail de trabalho. 16 sensoriamento remoto vagas de emprego em Jobsora. Encontre o seu trabalho hoje!",
+    "source": "br.jobsora.com",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-08-24T11:28:30.427281+00:00",
+    "last_seen": "2026-10-30T16:56:48.253111+00:00"
+  },
+  {
+    "id": 2602,
+    "fingerprint": "6f8739f7fc6b02db467e40caf73a2dc92ba91b2cd999d91bdb467ceb01806e95",
+    "title": "Vagas de Geoprocessamento (Urgente!) - 2026 - Jooble",
+    "organization": "Br",
+    "url": "https://br.jooble.org/vagas-de-emprego-geoprocessamento",
+    "snippet": "Vagas de Geoprocessamento: mais de 172 anúncios ativos • Salário competitivo • Período integral, parcial ou temporário • Encontre trabalho no Jooble!",
+    "source": "br.jooble.org",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-09-02T14:59:26.105137+00:00",
+    "last_seen": "2026-10-30T16:56:48.253111+00:00"
+  },
+  {
+    "id": 3428,
+    "fingerprint": "cfa8c5d9170080523e71008571673293676d85232d4ebd3259688b5aea51aea1",
+    "title": "Vagas de emprego sensoriamento remoto - 95 empregos | Jobsora",
+    "organization": "Br",
+    "url": "https://br.jobsora.com/empregos-sensoriamento-remoto",
+    "snippet": "Pesquise e inscreva-se nas últimas vagas de sensoriamento remoto. Empregadores verificados. Salário competitivo. Alertas de e-mail de trabalho. 95 sensoriamento remoto vagas de emprego em Jobsora. Encontre o seu trabalho hoje!",
+    "source": "br.jobsora.com",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-09-16T15:20:24.392042+00:00",
+    "last_seen": "2026-10-30T16:56:48.253111+00:00"
+  },
+  {
+    "id": 3743,
+    "fingerprint": "b30cee3dbe63fe28afa1ec6cc6ccb64891eab639299f73fd286592978d6c7f68",
+    "title": "Vagas: geoprocessamento e sensoriamento remoto - São Paulo, SP",
+    "organization": "Br",
+    "url": "https://br.indeed.com/q-geoprocessamento-e-sensoriamento-remoto-l-são-paulo,-sp-vagas.html?vjk=44b348dfff2a33e4",
+    "snippet": "Encontre 22 vagas de Geoprocessamento E Sensoriamento Remoto em São Paulo, SP. Confira novas oportunidades e candidate-se hoje.",
+    "source": "br.indeed.com",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-09-25T15:44:36.446062+00:00",
+    "last_seen": "2026-10-30T16:56:48.253111+00:00"
+  },
+  {
+    "id": 4513,
+    "fingerprint": "7909dafb40ba8e35745e6a495328c4e2f2f459a9b9971ac8de65c7f5c3ac71c2",
+    "title": "Vagas: geoprocessamento e sensoriamento remoto - Indeed",
+    "organization": "Br",
+    "url": "https://br.indeed.com/q-geoprocessamento-e-sensoriamento-remoto-vagas.html?vjk=ccf060e04af7381b",
+    "snippet": "A Geopixel está com vagas abertas para Assistente de Geoprocessamento Junior. Se você possui conhecimento em preparação de dados geoespaciais, controle de qualidade e interpretação de imagens de satélite ou aéreas, venha fazer parte no nosso time!! #vempraGEO Responsabilidades e atribuições Estruturar bases de dados espaciais através de interpretação de imagens de satélite para ...",
+    "source": "br.indeed.com",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-10-19T17:21:01.808994+00:00",
+    "last_seen": "2026-10-30T16:56:48.253111+00:00"
+  },
+  {
     "id": 12,
     "fingerprint": "978f589eac4fdba0d06c84a03ff92eb03c1e312a5dc23d331ecbfbecfabf0ff5",
     "title": "38 vagas de geoprocessamento - São Paulo, SP | Glassdoor",
@@ -714,62 +812,6 @@
     "last_seen": "2026-10-28T17:00:23.104513+00:00"
   },
   {
-    "id": 103,
-    "fingerprint": "74b92db3900e65bcaccf9734f786adfbf81cc0d4b2f9c13aa90877cbc9921d84",
-    "title": "30 vagas de Geoprocessamento em: São Paulo, São Paulo, Brasil",
-    "organization": "Br",
-    "url": "https://br.linkedin.com/jobs/geoprocessamento-vagas-são-paulo",
-    "snippet": "As 30 melhores vagas de Geoprocessamento de hoje em São Paulo, São Paulo, Brasil. Aproveite sua rede profissional para conseguir um emprego. Temos novas vagas de Geoprocessamento todos os dias.",
-    "source": "br.linkedin.com",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-10-28T17:00:23.104513+00:00"
-  },
-  {
-    "id": 1054,
-    "fingerprint": "23375db3499a486b3a60ae20633b271da8483b0be81ef58d38f711007e50499d",
-    "title": "Vagas de Geoprocessamento em São Paulo e Região (146 vagas ... - LinkedIn",
-    "organization": "Br",
-    "url": "https://br.linkedin.com/jobs/geoprocessamento-vagas-são-paulo-e-região",
-    "snippet": "As 146 melhores vagas de Geoprocessamento hoje em São Paulo e Região. Aproveite sua rede profissional para conseguir emprego. Temos novas vagas de Geoprocessamento todos os dias.",
-    "source": "br.linkedin.com",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-08-05T12:52:42.459664+00:00",
-    "last_seen": "2026-10-28T17:00:23.104513+00:00"
-  },
-  {
-    "id": 2147,
-    "fingerprint": "df65068ca779d449795c950f2f74a550e3ccc5dd7da3faa80eb877901cd24339",
-    "title": "Vagas de emprego sensoriamento remoto São Paulo, SP",
-    "organization": "Br",
-    "url": "https://br.jobsora.com/empregos-sensoriamento-remoto-são-paulo-sp",
-    "snippet": "Pesquise e inscreva-se nas últimas vagas de sensoriamento remoto. Empregadores verificados. Salário competitivo. Alertas de e-mail de trabalho. 16 sensoriamento remoto vagas de emprego em Jobsora. Encontre o seu trabalho hoje!",
-    "source": "br.jobsora.com",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-08-24T11:28:30.427281+00:00",
-    "last_seen": "2026-10-28T17:00:23.104513+00:00"
-  },
-  {
-    "id": 2602,
-    "fingerprint": "6f8739f7fc6b02db467e40caf73a2dc92ba91b2cd999d91bdb467ceb01806e95",
-    "title": "Vagas de Geoprocessamento (Urgente!) - 2026 - Jooble",
-    "organization": "Br",
-    "url": "https://br.jooble.org/vagas-de-emprego-geoprocessamento",
-    "snippet": "Vagas de Geoprocessamento: mais de 164 anúncios ativos • Salário competitivo • Período integral, parcial ou temporário • Encontre trabalho no Jooble!",
-    "source": "br.jooble.org",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-09-02T14:59:26.105137+00:00",
-    "last_seen": "2026-10-28T17:00:23.104513+00:00"
-  },
-  {
     "id": 2605,
     "fingerprint": "6bb3914f520c56f78e69a8115b8dfeb616bcea02adbd73b11dc2c5b0c5d41d7f",
     "title": "7 vagas de sensoriamento remoto - São Paulo | Glassdoor",
@@ -781,20 +823,6 @@
     "score": 78,
     "status": "new",
     "first_seen": "2026-09-02T14:59:26.105137+00:00",
-    "last_seen": "2026-10-28T17:00:23.104513+00:00"
-  },
-  {
-    "id": 3743,
-    "fingerprint": "b30cee3dbe63fe28afa1ec6cc6ccb64891eab639299f73fd286592978d6c7f68",
-    "title": "Vagas: geoprocessamento e sensoriamento remoto - São Paulo, SP",
-    "organization": "Br",
-    "url": "https://br.indeed.com/q-geoprocessamento-e-sensoriamento-remoto-l-são-paulo,-sp-vagas.html?vjk=44b348dfff2a33e4",
-    "snippet": "Encontre 23 vagas de Geoprocessamento E Sensoriamento Remoto em São Paulo, SP. Confira novas oportunidades e candidate-se hoje.",
-    "source": "br.indeed.com",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-09-25T15:44:36.446062+00:00",
     "last_seen": "2026-10-28T17:00:23.104513+00:00"
   },
   {
@@ -865,20 +893,6 @@
     "score": 78,
     "status": "new",
     "first_seen": "2026-10-05T19:31:01.608667+00:00",
-    "last_seen": "2026-10-26T17:08:32.503281+00:00"
-  },
-  {
-    "id": 4513,
-    "fingerprint": "7909dafb40ba8e35745e6a495328c4e2f2f459a9b9971ac8de65c7f5c3ac71c2",
-    "title": "Vagas: geoprocessamento e sensoriamento remoto - Indeed",
-    "organization": "Br",
-    "url": "https://br.indeed.com/q-geoprocessamento-e-sensoriamento-remoto-vagas.html?vjk=ccf060e04af7381b",
-    "snippet": "A Geopixel está com vagas abertas para Assistente de Geoprocessamento Junior. Se você possui conhecimento em preparação de dados geoespaciais, controle de qualidade e interpretação de imagens de satélite ou aéreas, venha fazer parte no nosso time!! #vempraGEO Responsabilidades e atribuições Estruturar bases de dados espaciais através de interpretação de imagens de satélite para ...",
-    "source": "br.indeed.com",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-10-19T17:21:01.808994+00:00",
     "last_seen": "2026-10-26T17:08:32.503281+00:00"
   },
   {
@@ -1061,20 +1075,6 @@
     "score": 78,
     "status": "new",
     "first_seen": "2026-09-11T14:51:42.700925+00:00",
-    "last_seen": "2026-10-02T16:31:22.611419+00:00"
-  },
-  {
-    "id": 3428,
-    "fingerprint": "cfa8c5d9170080523e71008571673293676d85232d4ebd3259688b5aea51aea1",
-    "title": "Vagas de emprego sensoriamento remoto - 98 empregos | Jobsora",
-    "organization": "Br",
-    "url": "https://br.jobsora.com/empregos-sensoriamento-remoto",
-    "snippet": "Pesquise e inscreva-se nas últimas vagas de sensoriamento remoto. Empregadores verificados. Salário competitivo. Alertas de e-mail de trabalho. 98 sensoriamento remoto vagas de emprego em Jobsora. Encontre o seu trabalho hoje!",
-    "source": "br.jobsora.com",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-09-16T15:20:24.392042+00:00",
     "last_seen": "2026-10-02T16:31:22.611419+00:00"
   },
   {
