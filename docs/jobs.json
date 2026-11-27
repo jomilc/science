@@ -109,7 +109,7 @@
     "score": 90,
     "status": "new",
     "first_seen": "2026-09-04T14:49:57.137375+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 4120,
@@ -123,7 +123,7 @@
     "score": 90,
     "status": "new",
     "first_seen": "2026-10-05T19:31:01.608667+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 4513,
@@ -571,7 +571,7 @@
     "score": 88,
     "status": "new",
     "first_seen": "2026-08-10T11:47:18.383002+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 1306,
@@ -756,18 +756,46 @@
     "last_seen": "2026-08-12T11:45:55.898839+00:00"
   },
   {
+    "id": 12,
+    "fingerprint": "978f589eac4fdba0d06c84a03ff92eb03c1e312a5dc23d331ecbfbecfabf0ff5",
+    "title": "22 vagas de geoprocessamento – São Paulo, SP | Glassdoor",
+    "organization": "Glassdoor",
+    "url": "https://www.glassdoor.com.br/Vaga/são-paulo-geoprocessamento-vagas-SRCH_IL.0,9_IC2479061_KO10,26.htm",
+    "snippet": "Procure vagas de Geoprocessamento em São Paulo, SP. Veja salários e avaliações de empresas, além de 22 vagas abertas de Geoprocessamento em São Paulo.",
+    "source": "www.glassdoor.com.br",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-07-22T12:25:17.372839+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
+    "id": 14,
+    "fingerprint": "06cac187bc862dc9eff9f04c6fd84f3673d1ce3595491754a4088ca86417e5a0",
+    "title": "Vagas de Geoprocessamento em Brasil (674 vagas) | LinkedIn",
+    "organization": "Br",
+    "url": "https://br.linkedin.com/jobs/geoprocessamento-vagas",
+    "snippet": "As 674 melhores vagas de Geoprocessamento hoje em Brasil. Aproveite sua rede profissional para conseguir emprego. Temos novas vagas de Geoprocessamento todos os dias.",
+    "source": "br.linkedin.com",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-07-22T12:25:17.372839+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
     "id": 103,
     "fingerprint": "74b92db3900e65bcaccf9734f786adfbf81cc0d4b2f9c13aa90877cbc9921d84",
     "title": "Vagas de Geoprocessamento em São Paulo, São Paulo, Brasil ...",
     "organization": "Br",
     "url": "https://br.linkedin.com/jobs/geoprocessamento-vagas-são-paulo",
-    "snippet": "As 170 melhores vagas de Geoprocessamento hoje em São Paulo, São Paulo, Brasil. Aproveite sua rede profissional para conseguir emprego. Temos novas vagas de Geoprocessamento todos...",
+    "snippet": "As 165 melhores vagas de Geoprocessamento hoje em São Paulo, São Paulo, Brasil. Aproveite sua rede profissional para conseguir emprego. Temos novas vagas de Geoprocessamento todos...",
     "source": "br.linkedin.com",
     "category": "universities",
     "score": 78,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 2147,
@@ -781,7 +809,105 @@
     "score": 78,
     "status": "new",
     "first_seen": "2026-08-24T11:28:30.427281+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
+    "id": 2629,
+    "fingerprint": "6ba2c0196d8b0399bb719bc54da2da805e8e9541e0809dfda5ee781812d91760",
+    "title": "AFOLU Carbon Projects Remote Jobs | Hunt Remotely",
+    "organization": "Huntremotely",
+    "url": "https://huntremotely.com/skill/26969-afolu-carbon-projects/remote-jobs",
+    "snippet": "Work ranges from planting trees and changing land management to measuring how land use practices balance carbon over time. Day to day this skill involves creating project plans, setting baselines, carrying out carbon accounting and preparing monitoring reports.",
+    "source": "huntremotely.com",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-09-02T14:59:26.105137+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
+    "id": 4118,
+    "fingerprint": "3e7515686bec73b098a0651d21e8d2777d8b32d5e1b51b945fae6c08441aedae",
+    "title": "Vagas: florestal - Brasil Remoto - Indeed",
+    "organization": "Br",
+    "url": "https://br.indeed.com/q-florestal-l-brasil-remoto-vagas.html",
+    "snippet": "Vagas abertas de Florestal - Brasil Remoto. Professor, Analista, Analista De Planejamento e mais no Indeed.com",
+    "source": "br.indeed.com",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-10-05T19:31:01.608667+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
+    "id": 4972,
+    "fingerprint": "166e2fe36b70f8db8fdc84f6659fdfe5b70de6892080b9e2db8c226dbf42e5cf",
+    "title": "Empregos | As Nações Unidas no Brasil",
+    "organization": "Brasil",
+    "url": "https://brasil.un.org/pt-br/jobs",
+    "snippet": "Oct 27, 2026 · Assistente de Áudio e Vídeo - Trabalho remoto Data limite 03 dezembro 2026 UNDP: United Nations Development Programme",
+    "source": "brasil.un.org",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-11-11T18:24:38.233462+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
+    "id": 5362,
+    "fingerprint": "5f84e25cec074b16ce7243d6e18296f2113a09bb80e7b17bde274ba1214f2301",
+    "title": "Brasil Carbono",
+    "organization": "Brcarbono",
+    "url": "https://brcarbono.com.br/",
+    "snippet": "Descubra o impacto que você ou sua empresa causam no meio ambiente através da emissão de dióxico de carbono (CO2) e quantas árvores seriam necessárias para compensar.",
+    "source": "brcarbono.com.br",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-11-23T22:27:52.869487+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
+    "id": 5533,
+    "fingerprint": "c09d4eb59a8808551bb4560d590842c93b279d3d9484848ae1ed2bd07e886f23",
+    "title": "Vagas: geoprocessamento e sensoriamento remoto - São Paulo, SP",
+    "organization": "Br",
+    "url": "https://br.indeed.com/q-geoprocessamento-e-sensoriamento-remoto-l-são-paulo,-sp-vagas.html?vjk=84d09a21d42b1b74",
+    "snippet": "Encontre 26 vagas de Geoprocessamento E Sensoriamento Remoto em São Paulo, SP. Confira novas oportunidades e candidate-se hoje.",
+    "source": "br.indeed.com",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-11-27T19:48:48.458336+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
+    "id": 5534,
+    "fingerprint": "98fa940671e0c78535eeb4f8079c15bf270ef3fe157b2b6439ebb1dc601fcae6",
+    "title": "Vagas: geoprocessamento e sensoriamento remoto - Indeed",
+    "organization": "Br",
+    "url": "https://br.indeed.com/q-geoprocessamento-e-sensoriamento-remoto-vagas.html?start=40",
+    "snippet": "Encontre 173 vagas de Geoprocessamento E Sensoriamento Remoto. Confira novas oportunidades e candidate-se hoje.",
+    "source": "br.indeed.com",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-11-27T19:48:48.458336+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
+    "id": 5551,
+    "fingerprint": "77af6697e97975a9f402c1ec6a182fe22eaaca51e1c1efca661f4a0bf637ffa6",
+    "title": "MRV Carbono — Inteligência climática e regulatória",
+    "organization": "Mrvcarbono",
+    "url": "https://www.mrvcarbono.com.br/",
+    "snippet": "Nascida na Amazônia, construída para o Brasil. A MRV Carbono nasceu no Amapá para resolver um problema jurídico concreto: transformar as exigências do mercado regulado em uma operação digital simples, rastreável e pronta para auditoria — da fonte do dado à decisão executiva.",
+    "source": "www.mrvcarbono.com.br",
+    "category": "environmental",
+    "score": 78,
+    "status": "new",
+    "first_seen": "2026-11-27T19:48:48.458336+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 2480,
@@ -826,20 +952,6 @@
     "last_seen": "2026-11-25T20:23:20.020022+00:00"
   },
   {
-    "id": 4118,
-    "fingerprint": "3e7515686bec73b098a0651d21e8d2777d8b32d5e1b51b945fae6c08441aedae",
-    "title": "Vagas: florestal - Brasil Remoto - Indeed",
-    "organization": "Br",
-    "url": "https://br.indeed.com/q-florestal-l-brasil-remoto-vagas.html",
-    "snippet": "Vagas abertas de Florestal - Brasil Remoto. Professor, Analista, Analista De Planejamento e mais no Indeed.com",
-    "source": "br.indeed.com",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-10-05T19:31:01.608667+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
-  },
-  {
     "id": 4882,
     "fingerprint": "6dffaac3b5e6ced86405f5a78531b3d5a709d5896d822c31ae16e92081e4e1d7",
     "title": "Vagas de Engenharia Florestal Home Office | Indeed",
@@ -851,20 +963,6 @@
     "score": 78,
     "status": "new",
     "first_seen": "2026-11-09T21:18:30.027628+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
-  },
-  {
-    "id": 4972,
-    "fingerprint": "166e2fe36b70f8db8fdc84f6659fdfe5b70de6892080b9e2db8c226dbf42e5cf",
-    "title": "Empregos | As Nações Unidas no Brasil",
-    "organization": "Brasil",
-    "url": "https://brasil.un.org/pt-br/jobs",
-    "snippet": "Analista em Protocolo Preventivo de Ação de Segurança (trabalho remoto) Data limite 25 novembro 2026 UNDP: United Nations Development Programme",
-    "source": "brasil.un.org",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-11-11T18:24:38.233462+00:00",
     "last_seen": "2026-11-25T20:23:20.020022+00:00"
   },
   {
@@ -896,20 +994,6 @@
     "last_seen": "2026-11-25T20:23:20.020022+00:00"
   },
   {
-    "id": 14,
-    "fingerprint": "06cac187bc862dc9eff9f04c6fd84f3673d1ce3595491754a4088ca86417e5a0",
-    "title": "Vagas de Geoprocessamento em Brasil (678 vagas) | LinkedIn",
-    "organization": "Br",
-    "url": "https://br.linkedin.com/jobs/geoprocessamento-vagas",
-    "snippet": "As 678 melhores vagas de Geoprocessamento hoje em Brasil. Aproveite sua rede profissional para conseguir emprego. Temos novas vagas de Geoprocessamento todos os dias.",
-    "source": "br.linkedin.com",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-11-23T22:27:52.869487+00:00"
-  },
-  {
     "id": 20,
     "fingerprint": "256185fcd88f543c91d5a253bf233a6e38c17c83c1a5f41f0fb375d47a897615",
     "title": "9 vagas de emprego para MEIO AMBIENTE REMOTO",
@@ -921,20 +1005,6 @@
     "score": 78,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-11-23T22:27:52.869487+00:00"
-  },
-  {
-    "id": 5362,
-    "fingerprint": "5f84e25cec074b16ce7243d6e18296f2113a09bb80e7b17bde274ba1214f2301",
-    "title": "Brasil Carbono",
-    "organization": "Brcarbono",
-    "url": "https://brcarbono.com.br/",
-    "snippet": "Descubra o impacto que você ou sua empresa causam no meio ambiente através da emissão de dióxico de carbono (CO2) e quantas árvores seriam necessárias para compensar.",
-    "source": "brcarbono.com.br",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-11-23T22:27:52.869487+00:00",
     "last_seen": "2026-11-23T22:27:52.869487+00:00"
   },
   {
@@ -1062,20 +1132,6 @@
     "status": "new",
     "first_seen": "2026-11-20T18:58:42.519223+00:00",
     "last_seen": "2026-11-20T18:58:42.519223+00:00"
-  },
-  {
-    "id": 12,
-    "fingerprint": "978f589eac4fdba0d06c84a03ff92eb03c1e312a5dc23d331ecbfbecfabf0ff5",
-    "title": "22 vagas de geoprocessamento – São Paulo, SP | Glassdoor",
-    "organization": "Glassdoor",
-    "url": "https://www.glassdoor.com.br/Vaga/são-paulo-geoprocessamento-vagas-SRCH_IL.0,9_IC2479061_KO10,26.htm",
-    "snippet": "Procure vagas de Geoprocessamento em São Paulo, SP. Veja salários e avaliações de empresas, além de 22 vagas abertas de Geoprocessamento em São Paulo.",
-    "source": "www.glassdoor.com.br",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-11-18T19:15:11.574563+00:00"
   },
   {
     "id": 4122,
@@ -1300,20 +1356,6 @@
     "status": "new",
     "first_seen": "2026-10-14T15:43:05.885173+00:00",
     "last_seen": "2026-10-14T15:43:05.885173+00:00"
-  },
-  {
-    "id": 2629,
-    "fingerprint": "6ba2c0196d8b0399bb719bc54da2da805e8e9541e0809dfda5ee781812d91760",
-    "title": "AFOLU Carbon Projects Remote Jobs | Hunt Remotely",
-    "organization": "Huntremotely",
-    "url": "https://huntremotely.com/skill/26969-afolu-carbon-projects/remote-jobs",
-    "snippet": "Work ranges from planting trees and changing land management to measuring how land use practices balance carbon over time. Day to day this skill involves creating project plans, setting baselines, carrying out carbon accounting and preparing monitoring reports.",
-    "source": "huntremotely.com",
-    "category": "environmental",
-    "score": 78,
-    "status": "new",
-    "first_seen": "2026-09-02T14:59:26.105137+00:00",
-    "last_seen": "2026-10-12T20:08:20.578260+00:00"
   },
   {
     "id": 4304,
@@ -2839,7 +2881,7 @@
     "score": 69,
     "status": "new",
     "first_seen": "2026-08-17T11:25:52.728858+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 1851,
@@ -2853,7 +2895,7 @@
     "score": 69,
     "status": "new",
     "first_seen": "2026-08-17T11:25:52.728858+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 1852,
@@ -2867,7 +2909,7 @@
     "score": 69,
     "status": "new",
     "first_seen": "2026-08-17T11:25:52.728858+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 112,
@@ -3049,7 +3091,7 @@
     "score": 62,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 44,
@@ -3063,7 +3105,7 @@
     "score": 62,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 45,
@@ -3077,7 +3119,7 @@
     "score": 62,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 4418,
@@ -3091,7 +3133,7 @@
     "score": 62,
     "status": "new",
     "first_seen": "2026-10-12T20:08:20.578260+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 4421,
@@ -3105,7 +3147,7 @@
     "score": 62,
     "status": "new",
     "first_seen": "2026-10-12T20:08:20.578260+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 4660,
@@ -3119,7 +3161,7 @@
     "score": 62,
     "status": "new",
     "first_seen": "2026-10-26T17:08:32.503281+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 5364,
@@ -3133,7 +3175,7 @@
     "score": 62,
     "status": "new",
     "first_seen": "2026-11-23T22:27:52.869487+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 41,
@@ -4186,32 +4228,32 @@
     "last_seen": "2026-07-22T12:25:17.372839+00:00"
   },
   {
+    "id": 109,
+    "fingerprint": "81070dc2f883d79bfba30366de73bd0309b42bb9259adb54d33b795205aca090",
+    "title": "Doutorado em sensoriamento remoto na USP - agencia.fapesp.br",
+    "organization": "Agencia",
+    "url": "https://agencia.fapesp.br/doutorado-em-sensoriamento-remoto-na-usp/57846",
+    "snippet": "O prazo de inscrição acaba na próxima quinta-feira (30/04). O projeto é desenvolvido na Escola Superior de Agricultura Luiz de Queiroz da Universidade de São Paulo (Esalq-USP), campus de Piracicaba, mas o bolsista vai atuar no Instituto de Astronomia, Geofísica e Ciências Atmosféricas (IAG) da USP.",
+    "source": "agencia.fapesp.br",
+    "category": "universities",
+    "score": 61,
+    "status": "new",
+    "first_seen": "2026-07-22T12:25:17.372839+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
     "id": 244,
     "fingerprint": "b2f818f28914e8c8054512e3be7ae5d251d4a48842cbce98464ed522d7543617",
     "title": "Vagas de Professor Universitário em São Paulo, São Paulo ...",
     "organization": "Br",
     "url": "https://br.linkedin.com/jobs/professor-universitário-vagas-são-paulo",
-    "snippet": "As 231 melhores vagas de Professor Universitário hoje em São Paulo, São Paulo, Brasil. Aproveite sua rede profissional para conseguir emprego. Temos novas vagas de Professor...",
+    "snippet": "As 244 melhores vagas de Professor Universitário hoje em São Paulo, São Paulo, Brasil. Aproveite sua rede profissional para conseguir emprego. Temos novas vagas de Professor...",
     "source": "br.linkedin.com",
     "category": "universities",
     "score": 61,
     "status": "new",
     "first_seen": "2026-07-24T12:19:05.010262+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
-  },
-  {
-    "id": 551,
-    "fingerprint": "a5527733b914c0f52271711ddcc86217c570acdaf856ea475ee6f6d99c4a3af3",
-    "title": "Estado de São Paulo - 13 vagas para professor biologia ...",
-    "organization": "Adzuna",
-    "url": "https://www.adzuna.com.br/estado-de-são-paulo/professor-de-biologia",
-    "snippet": "Estado de São Paulo - 13 vagas para professor biologia disponíveis na Adzuna, a ferramenta de busca de empregos do Brasil. Milhares de novas vagas disponíveis diariamente e todas as vagas disponíveis publicadas nos últimos 14 dias.",
-    "source": "www.adzuna.com.br",
-    "category": "schools",
-    "score": 61,
-    "status": "new",
-    "first_seen": "2026-07-29T13:01:13.838108+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 585,
@@ -4219,13 +4261,13 @@
     "title": "Concursos com vagas para Professor - Sensoriamento Remoto",
     "organization": "Pciconcursos",
     "url": "https://www.pciconcursos.com.br/vagas/professor-sensoriamento-remoto",
-    "snippet": "Lista geral de concursos (clique aqui) Pesquisa por Cargos (Professor - Sensoriamento Remoto) Encontre Provas (Professor - Sensoriamento Remoto) Fatec - Faculdade de Tecnologia - Pompéia SP 5 vagas até R$ 37,99 h/a Professores de Ensino Superior Superior 28/08/2025 USP - Universidade de São Paulo SP",
+    "snippet": "Aug 28, 2025 · Lista geral de concursos (clique aqui) Pesquisa por Cargos (Professor - Sensoriamento Remoto) Encontre Provas (Professor - Sensoriamento Remoto) Fatec - Faculdade de Tecnologia - Pompéia SP 5 vagas até R$ 37,99 h/a Professores de Ensino Superior Superior 28/08/2025 USP - Universidade de São Paulo SP",
     "source": "www.pciconcursos.com.br",
     "category": "universities",
     "score": 61,
     "status": "new",
     "first_seen": "2026-07-29T13:01:13.838108+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 624,
@@ -4239,7 +4281,7 @@
     "score": 61,
     "status": "new",
     "first_seen": "2026-07-29T13:01:13.838108+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 904,
@@ -4253,7 +4295,7 @@
     "score": 61,
     "status": "new",
     "first_seen": "2026-08-03T13:41:30.071707+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 3371,
@@ -4267,6 +4309,20 @@
     "score": 61,
     "status": "new",
     "first_seen": "2026-09-14T16:48:23.623611+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
+    "id": 551,
+    "fingerprint": "a5527733b914c0f52271711ddcc86217c570acdaf856ea475ee6f6d99c4a3af3",
+    "title": "Estado de São Paulo - 13 vagas para professor biologia ...",
+    "organization": "Adzuna",
+    "url": "https://www.adzuna.com.br/estado-de-são-paulo/professor-de-biologia",
+    "snippet": "Estado de São Paulo - 13 vagas para professor biologia disponíveis na Adzuna, a ferramenta de busca de empregos do Brasil. Milhares de novas vagas disponíveis diariamente e todas as vagas disponíveis publicadas nos últimos 14 dias.",
+    "source": "www.adzuna.com.br",
+    "category": "schools",
+    "score": 61,
+    "status": "new",
+    "first_seen": "2026-07-29T13:01:13.838108+00:00",
     "last_seen": "2026-11-25T20:23:20.020022+00:00"
   },
   {
@@ -4534,20 +4590,6 @@
     "status": "new",
     "first_seen": "2026-09-14T16:48:23.623611+00:00",
     "last_seen": "2026-09-14T16:48:23.623611+00:00"
-  },
-  {
-    "id": 109,
-    "fingerprint": "81070dc2f883d79bfba30366de73bd0309b42bb9259adb54d33b795205aca090",
-    "title": "Doutorado em sensoriamento remoto na USP",
-    "organization": "Agencia",
-    "url": "https://agencia.fapesp.br/doutorado-em-sensoriamento-remoto-na-usp/57846",
-    "snippet": "São requisitos obrigatórios para a oportunidade: graduação em geografia, geologia, engenharia, geofísica, ciências ambientais ou áreas afins; experiência ou interesse em sensoriamento remoto, análise de dados geoespaciais e programação científica.",
-    "source": "agencia.fapesp.br",
-    "category": "universities",
-    "score": 61,
-    "status": "new",
-    "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-09-11T14:51:42.700925+00:00"
   },
   {
     "id": 2456,
@@ -5089,11 +5131,11 @@
     "url": "https://www.glassdoor.com.br/Vaga/são-paulo-professor-de-biologia-vagas-SRCH_IL.0,9_IM1009_KO10,31.htm",
     "snippet": "Procure vagas de Professor de biologia em São Paulo. Veja salários e avaliações de empresas, além de 18 vagas abertas de Professor de biologia em São Paulo.",
     "source": "www.glassdoor.com.br",
-    "category": "schools",
+    "category": "universities",
     "score": 59,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 2470,
@@ -5101,13 +5143,13 @@
     "title": "Concursos com vagas para Professor Substituto / Ecologia",
     "organization": "Pciconcursos",
     "url": "https://www.pciconcursos.com.br/vagas/professor-substituto-ecologia",
-    "snippet": "20 hours ago · Lista geral de concursos (clique aqui) Pesquisa por Cargos (Professor Substituto / Ecologia) Encontre Provas (Professor Substituto / Ecologia) Unifesp - Universidade Federal de São Paulo SP 1 vaga até R$ 8.340,33 Professor Assistente A Substituto Superior 25/11/2026 UNESP - Universidade Estadual Paulista Júlio de Mesquita Filho SP",
+    "snippet": "2 days ago · Lista geral de concursos (clique aqui) Pesquisa por Cargos (Professor Substituto / Ecologia) Encontre Provas (Professor Substituto / Ecologia) Unifesp - Universidade Federal de São Paulo SP 1 vaga até R$ 8.340,33 Professor Assistente A Substituto Superior 25/11/2026 UNESP - Universidade Estadual Paulista Júlio de Mesquita Filho SP",
     "source": "www.pciconcursos.com.br",
     "category": "universities",
     "score": 58,
     "status": "new",
     "first_seen": "2026-08-28T21:19:46.067061+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 5190,
@@ -5359,7 +5401,7 @@
     "score": 55,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 578,
@@ -5367,13 +5409,13 @@
     "title": "Concursos com vagas para Professor - Geoprocessamento",
     "organization": "Pciconcursos",
     "url": "https://www.pciconcursos.com.br/vagas/professor-geoprocessamento",
-    "snippet": "Conferir período por edital 15/03/2022 UNESP - Universidade Estadual Paulista - Rio Claro SP 6 vagas até R$ 1331,82 Professores Substitutos Superior Prorrogado até 17/01/2022 UFABC - Universidade Federal do ABC SP",
+    "snippet": "3 days ago · Conferir período por edital 15/03/2022 UNESP - Universidade Estadual Paulista - Rio Claro SP 6 vagas até R$ 1331,82 Professores Substitutos Superior Prorrogado até 17/01/2022 UFABC - Universidade Federal do ABC SP",
     "source": "www.pciconcursos.com.br",
     "category": "universities",
     "score": 55,
     "status": "new",
     "first_seen": "2026-07-29T13:01:13.838108+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 5171,
@@ -5443,7 +5485,7 @@
     "score": 54,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-11-18T19:15:11.574563+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 4534,
@@ -5465,13 +5507,13 @@
     "title": "Vagas de Professor De Biologia em São Paulo, São Paulo ...",
     "organization": "Br",
     "url": "https://br.linkedin.com/jobs/professor-de-biologia-vagas-são-paulo",
-    "snippet": "As 123 melhores vagas de Professor De Biologia hoje em São Paulo, São Paulo, Brasil. Aproveite sua rede profissional para conseguir emprego. Temos novas vagas de Professor De...",
+    "snippet": "As 126 melhores vagas de Professor De Biologia hoje em São Paulo, São Paulo, Brasil. Aproveite sua rede profissional para conseguir emprego. Temos novas vagas de Professor De...",
     "source": "br.linkedin.com",
     "category": "schools",
     "score": 53,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 78,
@@ -5485,7 +5527,7 @@
     "score": 53,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 153,
@@ -5499,21 +5541,7 @@
     "score": 53,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
-  },
-  {
-    "id": 1040,
-    "fingerprint": "7a65229e18b742bde5d4c620e9a8db61fce87847e63ff895ed0d2fe935292867",
-    "title": "Vagas: professor biológia - Estado de São Paulo - Indeed",
-    "organization": "Br",
-    "url": "https://br.indeed.com/q-professor-biológia-l-estado-de-são-paulo-vagas.html",
-    "snippet": "Procure seu próximo emprego de Professor Biológia na Indeed.com entre Indeed.com vagas disponíveis",
-    "source": "br.indeed.com",
-    "category": "schools",
-    "score": 53,
-    "status": "new",
-    "first_seen": "2026-08-05T12:52:42.459664+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 2952,
@@ -5527,7 +5555,7 @@
     "score": 53,
     "status": "new",
     "first_seen": "2026-09-07T16:17:54.260484+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 5034,
@@ -5541,6 +5569,20 @@
     "score": 53,
     "status": "new",
     "first_seen": "2026-11-11T18:24:38.233462+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
+    "id": 1040,
+    "fingerprint": "7a65229e18b742bde5d4c620e9a8db61fce87847e63ff895ed0d2fe935292867",
+    "title": "Vagas: professor biológia - Estado de São Paulo - Indeed",
+    "organization": "Br",
+    "url": "https://br.indeed.com/q-professor-biológia-l-estado-de-são-paulo-vagas.html",
+    "snippet": "Procure seu próximo emprego de Professor Biológia na Indeed.com entre Indeed.com vagas disponíveis",
+    "source": "br.indeed.com",
+    "category": "schools",
+    "score": 53,
+    "status": "new",
+    "first_seen": "2026-08-05T12:52:42.459664+00:00",
     "last_seen": "2026-11-25T20:23:20.020022+00:00"
   },
   {
@@ -5927,13 +5969,13 @@
     "title": "Oportunidades | Conservação Internacional Brasil",
     "organization": "Brasil",
     "url": "https://brasil.conservation.org/oportunidades",
-    "snippet": "Nov 6, 2026 · Consultoria para elaboração de proposta de projeto ao Fundo Amazônia, visando o fortalecimento de organizações, negócios e ecossistemas territoriais da sociobioeconomia amazônica",
+    "snippet": "Nov 19, 2026 · Consultoria para elaboração de proposta de projeto ao Fundo Amazônia, visando o fortalecimento de organizações, negócios e ecossistemas territoriais da sociobioeconomia amazônica",
     "source": "brasil.conservation.org",
     "category": "environmental",
     "score": 52,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 701,
@@ -5947,7 +5989,7 @@
     "score": 52,
     "status": "new",
     "first_seen": "2026-07-31T12:56:08.948566+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 377,
@@ -6115,7 +6157,21 @@
     "score": 51,
     "status": "new",
     "first_seen": "2026-08-05T12:52:42.459664+00:00",
-    "last_seen": "2026-11-23T22:27:52.869487+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
+    "id": 5047,
+    "fingerprint": "147272b5a399aafac37f5f0750ade843254550e79abb9148934b4000cb6f908d",
+    "title": "678 vagas de emprego de Professor De Biologia em São Paulo, SP",
+    "organization": "Empregos",
+    "url": "https://www.empregos.com.br/vagas/professor-de-biologia-em-sao-paulo-sp",
+    "snippet": "Cadastre seu currículo GRÁTIS. 678 vagas para Professor De Biologia em São Paulo, SP atualizadas hoje no Empregos.com.br.",
+    "source": "www.empregos.com.br",
+    "category": "schools",
+    "score": 51,
+    "status": "new",
+    "first_seen": "2026-11-11T18:24:38.233462+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 1881,
@@ -6144,20 +6200,6 @@
     "status": "new",
     "first_seen": "2026-11-18T19:15:11.574563+00:00",
     "last_seen": "2026-11-18T19:15:11.574563+00:00"
-  },
-  {
-    "id": 5047,
-    "fingerprint": "147272b5a399aafac37f5f0750ade843254550e79abb9148934b4000cb6f908d",
-    "title": "233 vagas de emprego de Professor De Biologia em São Paulo, SP",
-    "organization": "Empregos",
-    "url": "https://www.empregos.com.br/vagas/professor-de-biologia-em-sao-paulo-sp",
-    "snippet": "Cadastre seu currículo GRÁTIS. 233 vagas para Professor De Biologia em São Paulo, SP atualizadas hoje no Empregos.com.br.",
-    "source": "www.empregos.com.br",
-    "category": "schools",
-    "score": 51,
-    "status": "new",
-    "first_seen": "2026-11-11T18:24:38.233462+00:00",
-    "last_seen": "2026-11-11T18:24:38.233462+00:00"
   },
   {
     "id": 105,
@@ -6647,7 +6689,7 @@
     "score": 50,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 49,
@@ -6661,7 +6703,7 @@
     "score": 50,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 50,
@@ -6941,7 +6983,7 @@
     "score": 46,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 87,
@@ -6955,21 +6997,21 @@
     "score": 46,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 122,
     "fingerprint": "90f46a7ca0007d7916463c9800eb181614d2472f1558df35298ac29782fd679f",
-    "title": "Concursos com vagas para Professor / Ecologia",
+    "title": "Concursos com vagas para Professor - Ecologia",
     "organization": "Pciconcursos",
     "url": "https://www.pciconcursos.com.br/vagas/professor-ecologia",
-    "snippet": "20 hours ago · 11/09/2026 UNESP - Universidade Estadual Paulista - Jaboticabal SP 1 vaga até R$ 16.353,01 Professor Assistente - Ecologia dos Animais Domésticos e Etologia Superior Prorrogado até 23/02/2026 UNESP - Universidade Estadual Paulista - Bauru SP",
+    "snippet": "1 day ago · 11/09/2026 UNESP - Universidade Estadual Paulista - Jaboticabal SP 1 vaga até R$ 16.353,01 Professor Assistente - Ecologia dos Animais Domésticos e Etologia Superior Prorrogado até 23/02/2026 UNESP - Universidade Estadual Paulista - Bauru SP",
     "source": "www.pciconcursos.com.br",
     "category": "universities",
     "score": 46,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 125,
@@ -6977,13 +7019,13 @@
     "title": "Concursos com vagas para Professor - Ciências Ambientais",
     "organization": "Pciconcursos",
     "url": "https://www.pciconcursos.com.br/vagas/professor-ciencias-ambientais",
-    "snippet": "20 hours ago · 18/11/2025 Fatec - Faculdade de Tecnologia - Araras SP 1 vaga até R$ 37,99 h/a Professor do Ensino Superior - Gestão Ambiental Empresarial Superior 24/10/2025 FATEC - Faculdade de Tecnologia - Itapetininga SP",
+    "snippet": "2 days ago · 18/11/2025 Fatec - Faculdade de Tecnologia - Araras SP 1 vaga até R$ 37,99 h/a Professor do Ensino Superior - Gestão Ambiental Empresarial Superior 24/10/2025 FATEC - Faculdade de Tecnologia - Itapetininga SP",
     "source": "www.pciconcursos.com.br",
     "category": "universities",
     "score": 46,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 292,
@@ -6997,7 +7039,7 @@
     "score": 46,
     "status": "new",
     "first_seen": "2026-07-24T12:19:05.010262+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 410,
@@ -7005,13 +7047,13 @@
     "title": "Vagas de Professor universitario biologia (Urgente!) - 2026 ...",
     "organization": "Br",
     "url": "https://br.jooble.org/vagas-de-emprego-professor-universitario-biologia",
-    "snippet": "Como Professor (a) de Ciências e Biologia - EJA, seus desafios serão: - Ministrar aulas para as turmas da EJA do Ensino Fundamental Anos Finais e Ensino Médio; - Desenvolver plano de curso e planejamento de aulas de acordo com o perfil dos estudantes da EJA e com a Proposta...",
+    "snippet": "Vagas de emprego novas para Professor universitario biologia. Salário competitivo. Vagas de período integral, temporário ou meio período para Professor universitario biologia. E-mail com alerta de vagas. O modo grátis, rápido e eficaz para achar emprego entre 248.000+ vagas atuais. Vagas de emprego nas melhores empresas brasileiras. Comece sua nova carreira agora!",
     "source": "br.jooble.org",
     "category": "universities",
     "score": 46,
     "status": "new",
     "first_seen": "2026-07-27T13:39:36.802639+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 5412,
@@ -7025,7 +7067,7 @@
     "score": 46,
     "status": "new",
     "first_seen": "2026-11-23T22:27:52.869487+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 5513,
@@ -7039,7 +7081,7 @@
     "score": 46,
     "status": "new",
     "first_seen": "2026-11-25T20:23:20.020022+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 5514,
@@ -7053,7 +7095,7 @@
     "score": 46,
     "status": "new",
     "first_seen": "2026-11-25T20:23:20.020022+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 5032,
@@ -8386,6 +8428,62 @@
     "last_seen": "2026-07-22T12:25:17.372839+00:00"
   },
   {
+    "id": 2451,
+    "fingerprint": "638d98cea3f343665214a9648b6614db53771d1801ae9694345cca7da6cd8d0a",
+    "title": "Vagas de Professor De Geografia em São Paulo, São Paulo ...",
+    "organization": "Br",
+    "url": "https://br.linkedin.com/jobs/professor-de-geografia-vagas-são-paulo",
+    "snippet": "As 250 melhores vagas de Professor De Geografia hoje em São Paulo, São Paulo, Brasil. Aproveite sua rede profissional para conseguir emprego. Temos novas vagas de Professor De...",
+    "source": "br.linkedin.com",
+    "category": "universities",
+    "score": 43,
+    "status": "new",
+    "first_seen": "2026-08-28T21:19:46.067061+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
+    "id": 4593,
+    "fingerprint": "d6cae26587542774a7eadcd0e5a327271089c4a2b109bc3f30d81ad313bc9af2",
+    "title": "Vagas: Professor De Geografia - São Paulo, SP",
+    "organization": "Br",
+    "url": "https://br.indeed.com/empregos-de-Professor-De-Geografia-em-São-Paulo,-SP",
+    "snippet": "Encontre 8 vagas de Professor De Geografia em São Paulo, SP. Confira novas oportunidades e candidate-se hoje.",
+    "source": "br.indeed.com",
+    "category": "universities",
+    "score": 43,
+    "status": "new",
+    "first_seen": "2026-10-23T15:38:50.430077+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
+    "id": 5018,
+    "fingerprint": "fb1c4fb1678c247043457012b13fde01092cb8b21c19f09b77f4beeaecbba7ab",
+    "title": "Vagas de emprego de Geografia professor em São Paulo, SP | Catho",
+    "organization": "Catho",
+    "url": "https://www.catho.com.br/vagas/geografia-professor/sao-paulo-sp/",
+    "snippet": "Vagas de emprego para Geografia professor em São Paulo, SP. 26 vagas abertas em diferentes empresas. Envie hoje seu currículo GRÁTIS.",
+    "source": "www.catho.com.br",
+    "category": "universities",
+    "score": 43,
+    "status": "new",
+    "first_seen": "2026-11-11T18:24:38.233462+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
+    "id": 5500,
+    "fingerprint": "bce5e5c129e1c234093de4ece7aa6b7c40422ed3cee1aec8b83df99810b025bd",
+    "title": "Concursos para geoprocessamento em São Paulo (SP) - Vagas e ...",
+    "organization": "Enterconcursos",
+    "url": "https://www.enterconcursos.com.br/concursos-abertos/sudeste/sao-paulo/cargo/geoprocessamento/",
+    "snippet": "8 notícias sobre concursos abertos para geoprocessamento em São Paulo (SP). Confira requisitos, salários e editais atualizados para geoprocessamento em 2026!",
+    "source": "www.enterconcursos.com.br",
+    "category": "universities",
+    "score": 43,
+    "status": "new",
+    "first_seen": "2026-11-25T20:23:20.020022+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
     "id": 5080,
     "fingerprint": "eb318fc9a8f54379619a8f252eb8857d19d9120017785f720acd047dc036d637",
     "title": "Vagas de emprego de Geoprocessamento em São Paulo, SP | Catho",
@@ -8414,48 +8512,6 @@
     "last_seen": "2026-11-25T20:23:20.020022+00:00"
   },
   {
-    "id": 5500,
-    "fingerprint": "bce5e5c129e1c234093de4ece7aa6b7c40422ed3cee1aec8b83df99810b025bd",
-    "title": "Concursos para geoprocessamento em São Paulo (SP) - Vagas e ...",
-    "organization": "Enterconcursos",
-    "url": "https://www.enterconcursos.com.br/concursos-abertos/sudeste/sao-paulo/cargo/geoprocessamento/",
-    "snippet": "8 notícias sobre concursos abertos para geoprocessamento em São Paulo (SP). Confira requisitos, salários e editais atualizados para geoprocessamento em 2026!",
-    "source": "www.enterconcursos.com.br",
-    "category": "universities",
-    "score": 43,
-    "status": "new",
-    "first_seen": "2026-11-25T20:23:20.020022+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
-  },
-  {
-    "id": 2451,
-    "fingerprint": "638d98cea3f343665214a9648b6614db53771d1801ae9694345cca7da6cd8d0a",
-    "title": "Vagas de Professor De Geografia em São Paulo, São Paulo ...",
-    "organization": "Br",
-    "url": "https://br.linkedin.com/jobs/professor-de-geografia-vagas-são-paulo",
-    "snippet": "As 230 melhores vagas de Professor De Geografia hoje em São Paulo, São Paulo, Brasil. Aproveite sua rede profissional para conseguir emprego. Temos novas vagas de Professor De...",
-    "source": "br.linkedin.com",
-    "category": "universities",
-    "score": 43,
-    "status": "new",
-    "first_seen": "2026-08-28T21:19:46.067061+00:00",
-    "last_seen": "2026-11-23T22:27:52.869487+00:00"
-  },
-  {
-    "id": 5018,
-    "fingerprint": "fb1c4fb1678c247043457012b13fde01092cb8b21c19f09b77f4beeaecbba7ab",
-    "title": "Vagas de emprego de Geografia professor em São Paulo, SP | Catho",
-    "organization": "Catho",
-    "url": "https://www.catho.com.br/vagas/geografia-professor/sao-paulo-sp/",
-    "snippet": "Vagas de emprego para Geografia professor em São Paulo, SP. 23 vagas abertas em diferentes empresas. Envie hoje seu currículo GRÁTIS.",
-    "source": "www.catho.com.br",
-    "category": "universities",
-    "score": 43,
-    "status": "new",
-    "first_seen": "2026-11-11T18:24:38.233462+00:00",
-    "last_seen": "2026-11-23T22:27:52.869487+00:00"
-  },
-  {
     "id": 5403,
     "fingerprint": "abd55d7cf76758361b451802590a99fc442ec5d1ee93a9bd51628418976fd900",
     "title": "Vagas de Emprego de Professor de Geografia em São Paulo - SP",
@@ -8482,20 +8538,6 @@
     "status": "new",
     "first_seen": "2026-10-23T15:38:50.430077+00:00",
     "last_seen": "2026-11-18T19:15:11.574563+00:00"
-  },
-  {
-    "id": 4593,
-    "fingerprint": "d6cae26587542774a7eadcd0e5a327271089c4a2b109bc3f30d81ad313bc9af2",
-    "title": "Vagas: Professor De Geografia - São Paulo, SP",
-    "organization": "Br",
-    "url": "https://br.indeed.com/empregos-de-Professor-De-Geografia-em-São-Paulo,-SP",
-    "snippet": "Encontre 8 vagas de Professor De Geografia em São Paulo, SP. Confira novas oportunidades e candidate-se hoje.",
-    "source": "br.indeed.com",
-    "category": "universities",
-    "score": 43,
-    "status": "new",
-    "first_seen": "2026-10-23T15:38:50.430077+00:00",
-    "last_seen": "2026-11-11T18:24:38.233462+00:00"
   },
   {
     "id": 4811,
@@ -9268,6 +9310,62 @@
     "last_seen": "2026-07-24T12:19:05.010262+00:00"
   },
   {
+    "id": 15,
+    "fingerprint": "b65cd87cf99dd768a819b5514aa0cfa2d6ce2229f9ed556deb8f51c54eb48419",
+    "title": "70 vaga (s) de Analista ambiental – Brasil - home office",
+    "organization": "Glassdoor",
+    "url": "https://www.glassdoor.com.br/Vaga/home-office-brasil-analista-ambiental-vagas-SRCH_FW0,11_IL.12,18_KO19,37.htm",
+    "snippet": "Encontre a vaga perfeita de Analista ambiental em Brasil para trabalhar em casa. Veja salários e avaliações de empresas, além de 70 vagas home office abertas para Analista ambiental em Brasil.",
+    "source": "www.glassdoor.com.br",
+    "category": "environmental",
+    "score": 42,
+    "status": "new",
+    "first_seen": "2026-07-22T12:25:17.372839+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
+    "id": 493,
+    "fingerprint": "b401bd4a6ba327c3a99a1b486f5a37da4b87af16ee3944c7fd2565ef3fe8038c",
+    "title": "Vagas de Gis em Brasil (975 vagas) | LinkedIn",
+    "organization": "Br",
+    "url": "https://br.linkedin.com/jobs/gis-vagas",
+    "snippet": "As 975 melhores vagas de Gis hoje em Brasil. Aproveite sua rede profissional para conseguir emprego. Temos novas vagas de Gis todos os dias.",
+    "source": "br.linkedin.com",
+    "category": "environmental",
+    "score": 42,
+    "status": "new",
+    "first_seen": "2026-07-29T13:01:13.838108+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
+    "id": 3275,
+    "fingerprint": "8dcaa840501e055d837d0e2af537de967886b6950d6e602ecf0b77f3b172eb5d",
+    "title": "16 vagas de analista ambiental – Trabalho remoto - home ...",
+    "organization": "Glassdoor",
+    "url": "https://www.glassdoor.com.br/Vaga/home-office-trabalho-remoto-analista-ambiental-vagas-SRCH_FW0,11_IL.12,27_IS12226_KO28,46.htm",
+    "snippet": "Encontre a vaga perfeita de Analista ambiental em Trabalho remoto para trabalhar em casa. Veja salários e avaliações de empresas, além de 16 vagas home office abertas para Analista ambiental em Trabalho remoto.",
+    "source": "www.glassdoor.com.br",
+    "category": "environmental",
+    "score": 42,
+    "status": "new",
+    "first_seen": "2026-09-14T16:48:23.623611+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
+    "id": 5350,
+    "fingerprint": "5d133a16a3fc70b0c843db08302cb587394cfa93f6202c89a26fa344b194932c",
+    "title": "Vagas: analista ambiental, técnico ambiental remoto - Indeed",
+    "organization": "Br",
+    "url": "https://br.indeed.com/q-analista-ambiental,-técnico-ambiental-remoto-vagas.html?vjk=4cddacf78a1a3bc8",
+    "snippet": "Oportunidades de emprego de Analista Ambiental, Técnico De Meio Ambiente, Analista De Marketing Pleno. Confira 1.888 vagas abertas no momento.",
+    "source": "br.indeed.com",
+    "category": "environmental",
+    "score": 42,
+    "status": "new",
+    "first_seen": "2026-11-23T22:27:52.869487+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
     "id": 21,
     "fingerprint": "86d2204e54982825e57c796eb7ea93cdb90e0038d6573edf2751260a5f78d543",
     "title": "Vagas de emprego de Analista ambiental trabalho remoto | Catho",
@@ -9279,20 +9377,6 @@
     "score": 42,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
-  },
-  {
-    "id": 493,
-    "fingerprint": "b401bd4a6ba327c3a99a1b486f5a37da4b87af16ee3944c7fd2565ef3fe8038c",
-    "title": "Vagas de Gis em Brasil (1,000+ vagas) | LinkedIn",
-    "organization": "Br",
-    "url": "https://br.linkedin.com/jobs/gis-vagas",
-    "snippet": "As 1,000+ melhores vagas de Gis hoje em Brasil. Aproveite sua rede profissional para conseguir emprego. Temos novas vagas de Gis todos os dias.",
-    "source": "br.linkedin.com",
-    "category": "environmental",
-    "score": 42,
-    "status": "new",
-    "first_seen": "2026-07-29T13:01:13.838108+00:00",
     "last_seen": "2026-11-25T20:23:20.020022+00:00"
   },
   {
@@ -9310,34 +9394,6 @@
     "last_seen": "2026-11-25T20:23:20.020022+00:00"
   },
   {
-    "id": 3275,
-    "fingerprint": "8dcaa840501e055d837d0e2af537de967886b6950d6e602ecf0b77f3b172eb5d",
-    "title": "16 vagas de analista ambiental – Trabalho remoto - home ...",
-    "organization": "Glassdoor",
-    "url": "https://www.glassdoor.com.br/Vaga/home-office-trabalho-remoto-analista-ambiental-vagas-SRCH_FW0,11_IL.12,27_IS12226_KO28,46.htm",
-    "snippet": "Encontre a vaga perfeita de Analista ambiental em Trabalho remoto para trabalhar em casa. Veja salários e avaliações de empresas, além de 16 vagas home office abertas para Analista ambiental em Trabalho remoto.",
-    "source": "www.glassdoor.com.br",
-    "category": "environmental",
-    "score": 42,
-    "status": "new",
-    "first_seen": "2026-09-14T16:48:23.623611+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
-  },
-  {
-    "id": 5350,
-    "fingerprint": "5d133a16a3fc70b0c843db08302cb587394cfa93f6202c89a26fa344b194932c",
-    "title": "Vagas: analista ambiental, técnico ambiental remoto - Indeed",
-    "organization": "Br",
-    "url": "https://br.indeed.com/q-analista-ambiental,-técnico-ambiental-remoto-vagas.html?vjk=4cddacf78a1a3bc8",
-    "snippet": "Oportunidades de emprego de Analista Ambiental, Técnico De Meio Ambiente, Analista De Marketing Pleno. Confira 1.888 vagas abertas no momento.",
-    "source": "br.indeed.com",
-    "category": "environmental",
-    "score": 42,
-    "status": "new",
-    "first_seen": "2026-11-23T22:27:52.869487+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
-  },
-  {
     "id": 5450,
     "fingerprint": "5c21ae331aed373924553e33c8843439d1e9002d714da35104b0b2361f89b72d",
     "title": "63 vagas de ambiental – Trabalho remoto | Glassdoor",
@@ -9350,20 +9406,6 @@
     "status": "new",
     "first_seen": "2026-11-25T20:23:20.020022+00:00",
     "last_seen": "2026-11-25T20:23:20.020022+00:00"
-  },
-  {
-    "id": 15,
-    "fingerprint": "b65cd87cf99dd768a819b5514aa0cfa2d6ce2229f9ed556deb8f51c54eb48419",
-    "title": "62 vaga (s) de Analista ambiental – Brasil - home office",
-    "organization": "Glassdoor",
-    "url": "https://www.glassdoor.com.br/Vaga/home-office-brasil-analista-ambiental-vagas-SRCH_FW0,11_IL.12,18_KO19,37.htm",
-    "snippet": "Encontre a vaga perfeita de Analista ambiental em Brasil para trabalhar em casa. Veja salários e avaliações de empresas, além de 62 vagas home office abertas para Analista ambiental em Brasil.",
-    "source": "www.glassdoor.com.br",
-    "category": "environmental",
-    "score": 42,
-    "status": "new",
-    "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-11-23T22:27:52.869487+00:00"
   },
   {
     "id": 16,
@@ -10043,13 +10085,13 @@
     "title": "Vagas de Meio ambiente em São Paulo, SP (Urgente!) - 2026 ...",
     "organization": "Br",
     "url": "https://br.jooble.org/vagas-de-emprego-meio-ambiente/São-Paulo,-SP",
-    "snippet": "Estamos em busca de um (a) Engenheiro de Meio Ambiente , que queira fazer a diferença em um ambiente dinâmico e colaborativo. Aqui, você terá a oportunidade de desenvolver suas habilidades...",
+    "snippet": "Vagas de Meio ambiente em São Paulo, SP: mais de 17.703 anúncios ativos • Salário competitivo • Período integral, parcial ou temporário • Encontre trabalho no Jooble!",
     "source": "br.jooble.org",
     "category": "universities",
     "score": 40,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 66,
@@ -10057,13 +10099,13 @@
     "title": "Vagas de emprego para meio ambiente em São Paulo | Vagas.com",
     "organization": "Vagas",
     "url": "https://www.vagas.com.br/vagas-de-meio-ambiente-em-sao-paulo",
-    "snippet": "Oct 23, 2026 · Vagas de emprego para meio ambiente em São Paulo e oportunidade de trabalho hoje. Cadastre grátis seu currículo agora no maior site de empregos do Brasil!",
+    "snippet": "Vagas de emprego para meio ambiente em São Paulo e oportunidade de trabalho hoje. Cadastre grátis seu currículo agora no maior site de empregos do Brasil!",
     "source": "www.vagas.com.br",
-    "category": "universities",
+    "category": "environmental",
     "score": 40,
     "status": "new",
     "first_seen": "2026-07-22T12:25:17.372839+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 1028,
@@ -10077,7 +10119,7 @@
     "score": 40,
     "status": "new",
     "first_seen": "2026-08-05T12:52:42.459664+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 2664,
@@ -10091,7 +10133,7 @@
     "score": 40,
     "status": "new",
     "first_seen": "2026-09-02T14:59:26.105137+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 4134,
@@ -10099,13 +10141,13 @@
     "title": "Vagas de emprego para planejamento | Vagas.com",
     "organization": "Vagas",
     "url": "https://www.vagas.com.br/vagas-de-planejamento",
-    "snippet": "Oct 15, 2026 · Vagas de emprego para planejamento e oportunidade de trabalho hoje. Cadastre grátis seu currículo agora no maior site de empregos do Brasil!",
+    "snippet": "Nov 19, 2026 · Vagas de emprego para planejamento e oportunidade de trabalho hoje. Cadastre grátis seu currículo agora no maior site de empregos do Brasil!",
     "source": "www.vagas.com.br",
     "category": "environmental",
     "score": 40,
     "status": "new",
     "first_seen": "2026-10-05T19:31:01.608667+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 4135,
@@ -10119,7 +10161,7 @@
     "score": 40,
     "status": "new",
     "first_seen": "2026-10-05T19:31:01.608667+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 4338,
@@ -10133,7 +10175,7 @@
     "score": 40,
     "status": "new",
     "first_seen": "2026-10-09T17:21:30.002213+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 5053,
@@ -10141,13 +10183,13 @@
     "title": "Vagas de Trabalhar Em Ongs em São Paulo, SP | Indeed",
     "organization": "Br",
     "url": "https://br.indeed.com/q-trabalhar-em-ongs-l-são-paulo,-sp-vagas.html",
-    "snippet": "Encontre 89 vagas de Trabalhar Em Ongs em São Paulo, SP. Confira novas oportunidades e candidate-se hoje.",
+    "snippet": "Encontre 101 vagas de Trabalhar Em Ongs em São Paulo, SP. Confira novas oportunidades e candidate-se hoje.",
     "source": "br.indeed.com",
     "category": "environmental",
     "score": 40,
     "status": "new",
     "first_seen": "2026-11-16T20:49:16.057238+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 5142,
@@ -10161,7 +10203,21 @@
     "score": 40,
     "status": "new",
     "first_seen": "2026-11-18T19:15:11.574563+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
+    "id": 5155,
+    "fingerprint": "8cb2c24f08b94db046e85deeda18391bd6ca1aaaacb478cc03776805c36a284b",
+    "title": "Vagas de emprego de Area meio ambiente em São Paulo, SP | Catho",
+    "organization": "Catho",
+    "url": "https://www.catho.com.br/vagas/area-meio-ambiente/sao-paulo-sp/",
+    "snippet": "Vagas de emprego para Area meio ambiente em São Paulo, SP. 85 vagas abertas em diferentes empresas. Envie hoje seu currículo GRÁTIS.",
+    "source": "www.catho.com.br",
+    "category": "universities",
+    "score": 40,
+    "status": "new",
+    "first_seen": "2026-11-18T19:15:11.574563+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 5469,
@@ -10175,7 +10231,21 @@
     "score": 40,
     "status": "new",
     "first_seen": "2026-11-25T20:23:20.020022+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
+    "id": 5566,
+    "fingerprint": "5dc304cae07d5aba3c1ca490fa823fbd89dff8f0bbcf3e619dd57cc2effe89e9",
+    "title": "Trabalhe Conosco - IBGE",
+    "organization": "Ibge",
+    "url": "https://www.ibge.gov.br/acesso-informacao/institucional/trabalhe-conosco.html",
+    "snippet": "O Instituto Brasileiro de Geografia e Estatística - IBGE é o principal provedor de informações geográficas e estatísticas do Brasil.",
+    "source": "www.ibge.gov.br",
+    "category": "environmental",
+    "score": 40,
+    "status": "new",
+    "first_seen": "2026-11-27T19:48:48.458336+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 3166,
@@ -10241,20 +10311,6 @@
     "url": "https://www.pciconcursos.com.br/vagas/planejamento-territorial",
     "snippet": "Apr 1, 2024 · Início › Concursos › Vagas › Planejamento Territorial Lista geral de concursos (clique aqui) Pesquisa por Cargos (Planejamento Territorial) Encontre Provas (Planejamento Territorial) SEMIL - Secretaria de Meio Ambiente, Infraestrutura e Logística SP Vagas até R$ 937,59 Vários Cargos Médio Incompleto / Técnico Incompleto / Superior ...",
     "source": "www.pciconcursos.com.br",
-    "category": "environmental",
-    "score": 40,
-    "status": "new",
-    "first_seen": "2026-11-18T19:15:11.574563+00:00",
-    "last_seen": "2026-11-18T19:15:11.574563+00:00"
-  },
-  {
-    "id": 5155,
-    "fingerprint": "8cb2c24f08b94db046e85deeda18391bd6ca1aaaacb478cc03776805c36a284b",
-    "title": "Vagas de emprego de Area meio ambiente em São Paulo, SP | Catho",
-    "organization": "Catho",
-    "url": "https://www.catho.com.br/vagas/area-meio-ambiente/sao-paulo-sp/",
-    "snippet": "Vagas de emprego para Area meio ambiente em São Paulo, SP. 86 vagas abertas em diferentes empresas. Envie hoje seu currículo GRÁTIS.",
-    "source": "www.catho.com.br",
     "category": "environmental",
     "score": 40,
     "status": "new",
@@ -11690,18 +11746,18 @@
     "last_seen": "2026-07-22T12:25:17.372839+00:00"
   },
   {
-    "id": 4201,
-    "fingerprint": "e5e982dca56a1bc8862c527bdcbb0620bfe92a7c09bd5301b0452a036c01cd98",
-    "title": "Vagas: professor biologia - São Paulo, SP - Indeed",
+    "id": 774,
+    "fingerprint": "3dddd8ba84670b878b0cc3ee2c1104a1b6d677b2ec96acf9d4d7d475e14e2d2b",
+    "title": "Vagas de emprego Professor colégio particular São Paulo, SP",
     "organization": "Br",
-    "url": "https://br.indeed.com/q-professor-biologia-l-são-paulo,-sp-vagas.html?vjk=b3dc019c621b1fb5",
-    "snippet": "Estamos em busca de professores especialistas da disciplina de Biologia / Ciências comprometidos com a excelência acadêmica e o desenvolvimento integral dos alunos do Ensino Fundamental - Anos Finais, Ensino Médio e Militares.",
-    "source": "br.indeed.com",
+    "url": "https://br.jooble.org/vagas-de-emprego-professor-colégio-particular/São-Paulo,-SP",
+    "snippet": "Professor (a) de QUÍMICA com experiência em sala de aula, com alunos do Ensino Fundamental II ao Ensino Médio, facilidade com recursos tecnológicos, uso de plataforma - formado (física e química), com diploma e habilitado para exercício da profissão.",
+    "source": "br.jooble.org",
     "category": "schools",
     "score": 38,
     "status": "new",
-    "first_seen": "2026-10-05T19:31:01.608667+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "first_seen": "2026-07-31T12:56:08.948566+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 2131,
@@ -11715,7 +11771,35 @@
     "score": 38,
     "status": "new",
     "first_seen": "2026-08-21T11:26:09.847534+00:00",
-    "last_seen": "2026-11-23T22:27:52.869487+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
+    "id": 4201,
+    "fingerprint": "e5e982dca56a1bc8862c527bdcbb0620bfe92a7c09bd5301b0452a036c01cd98",
+    "title": "Vagas: professor biologia - São Paulo, SP - Indeed",
+    "organization": "Br",
+    "url": "https://br.indeed.com/q-professor-biologia-l-são-paulo,-sp-vagas.html?vjk=b3dc019c621b1fb5",
+    "snippet": "Estamos em busca de professores especialistas da disciplina de Biologia / Ciências comprometidos com a excelência acadêmica e o desenvolvimento integral dos alunos do Ensino Fundamental - Anos Finais, Ensino Médio e Militares.",
+    "source": "br.indeed.com",
+    "category": "schools",
+    "score": 38,
+    "status": "new",
+    "first_seen": "2026-10-05T19:31:01.608667+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
+    "id": 5576,
+    "fingerprint": "4dfaea974e1349d6399b32cbbbcbc48bfb829cdd76ff2c88c611b29f387aec3e",
+    "title": "Vagas de Professor Biologia em São Paulo e Região (120 vagas ...",
+    "organization": "Br",
+    "url": "https://br.linkedin.com/jobs/professor-biologia-vagas-são-paulo-e-região",
+    "snippet": "Oct 9, 2026 · As 120 melhores vagas de Professor Biologia hoje em São Paulo e Região. Aproveite sua rede profissional para conseguir emprego. Temos novas vagas de Professor Biologia todos os dias.",
+    "source": "br.linkedin.com",
+    "category": "schools",
+    "score": 38,
+    "status": "new",
+    "first_seen": "2026-11-27T19:48:48.458336+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 5423,
@@ -11730,20 +11814,6 @@
     "status": "new",
     "first_seen": "2026-11-23T22:27:52.869487+00:00",
     "last_seen": "2026-11-23T22:27:52.869487+00:00"
-  },
-  {
-    "id": 774,
-    "fingerprint": "3dddd8ba84670b878b0cc3ee2c1104a1b6d677b2ec96acf9d4d7d475e14e2d2b",
-    "title": "Vagas de emprego Professor colégio particular São Paulo, SP",
-    "organization": "Br",
-    "url": "https://br.jooble.org/vagas-de-emprego-professor-colégio-particular/São-Paulo,-SP",
-    "snippet": "Professor (a) de QUÍMICA com experiência em sala de aula, com alunos do Ensino Fundamental II ao Ensino Médio, facilidade com recursos tecnológicos, uso de plataforma - formado (física e química), com diploma e habilitado para exercício da profissão.",
-    "source": "br.jooble.org",
-    "category": "schools",
-    "score": 38,
-    "status": "new",
-    "first_seen": "2026-07-31T12:56:08.948566+00:00",
-    "last_seen": "2026-11-18T19:15:11.574563+00:00"
   },
   {
     "id": 872,
@@ -12303,7 +12373,7 @@
     "score": 36,
     "status": "new",
     "first_seen": "2026-08-03T13:41:30.071707+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 2229,
@@ -12317,21 +12387,21 @@
     "score": 36,
     "status": "new",
     "first_seen": "2026-08-24T11:28:30.427281+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
-    "id": 5105,
-    "fingerprint": "3e8efdfaf61f930bda77c8c125b5f38167ae9fee5fa152e32a4148a08eb4f460",
-    "title": "Vagas de emprego de Professor ciencias biologia em São Paulo ...",
-    "organization": "Catho",
-    "url": "https://www.catho.com.br/vagas/professor-ciencias-biologia/sao-paulo-sp/",
-    "snippet": "Vagas de emprego para Professor ciencias biologia em São Paulo, SP. 24 vagas abertas em diferentes empresas. Envie hoje seu currículo GRÁTIS.",
-    "source": "www.catho.com.br",
-    "category": "universities",
+    "id": 2737,
+    "fingerprint": "5b726d9d4131711ae5a4e5268d82d2021434ed0adfc7751a8836e42cec7e8a52",
+    "title": "Vagas de Docente em São Paulo, São Paulo, Brasil (738 vagas ...",
+    "organization": "Br",
+    "url": "https://br.linkedin.com/jobs/docente-vagas-são-paulo",
+    "snippet": "As 738 melhores vagas de Docente hoje em São Paulo, São Paulo, Brasil. Aproveite sua rede profissional para conseguir emprego. Temos novas vagas de Docente todos os dias.",
+    "source": "br.linkedin.com",
+    "category": "schools",
     "score": 36,
     "status": "new",
-    "first_seen": "2026-11-16T20:49:16.057238+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "first_seen": "2026-09-02T14:59:26.105137+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 5163,
@@ -12345,7 +12415,7 @@
     "score": 36,
     "status": "new",
     "first_seen": "2026-11-18T19:15:11.574563+00:00",
-    "last_seen": "2026-11-25T20:23:20.020022+00:00"
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
   },
   {
     "id": 5201,
@@ -12353,12 +12423,40 @@
     "title": "Vagas de emprego de Biologo em São Paulo | Catho",
     "organization": "Catho",
     "url": "https://www.catho.com.br/vagas/biologo/sp/",
-    "snippet": "Vagas de emprego para Biologo em São Paulo. 33 vagas abertas em diferentes empresas. Envie hoje seu currículo GRÁTIS.",
+    "snippet": "Vagas de emprego para Biologo em São Paulo. 35 vagas abertas em diferentes empresas. Envie hoje seu currículo GRÁTIS.",
     "source": "www.catho.com.br",
     "category": "schools",
     "score": 36,
     "status": "new",
     "first_seen": "2026-11-18T19:15:11.574563+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
+    "id": 5580,
+    "fingerprint": "58d39d47119862a175ad4b595ff0415c5be91f71062c529f5d160499798ef1a9",
+    "title": "Vagas: professor biologia - Estado de São Paulo - Indeed",
+    "organization": "Br",
+    "url": "https://br.indeed.com/q-professor-biologia-l-estado-de-são-paulo-vagas.html?vjk=55710525bdcdb557",
+    "snippet": "Encontre 18 vagas de Professor Biologia em Estado de São Paulo. Confira novas oportunidades e candidate-se hoje.",
+    "source": "br.indeed.com",
+    "category": "universities",
+    "score": 36,
+    "status": "new",
+    "first_seen": "2026-11-27T19:48:48.458336+00:00",
+    "last_seen": "2026-11-27T19:48:48.458336+00:00"
+  },
+  {
+    "id": 5105,
+    "fingerprint": "3e8efdfaf61f930bda77c8c125b5f38167ae9fee5fa152e32a4148a08eb4f460",
+    "title": "Vagas de emprego de Professor ciencias biologia em São Paulo ...",
+    "organization": "Catho",
+    "url": "https://www.catho.com.br/vagas/professor-ciencias-biologia/sao-paulo-sp/",
+    "snippet": "Vagas de emprego para Professor ciencias biologia em São Paulo, SP. 24 vagas abertas em diferentes empresas. Envie hoje seu currículo GRÁTIS.",
+    "source": "www.catho.com.br",
+    "category": "universities",
+    "score": 36,
+    "status": "new",
+    "first_seen": "2026-11-16T20:49:16.057238+00:00",
     "last_seen": "2026-11-25T20:23:20.020022+00:00"
   },
   {
@@ -12514,20 +12612,6 @@
     "status": "new",
     "first_seen": "2026-08-03T13:41:30.071707+00:00",
     "last_seen": "2026-10-07T17:41:23.236859+00:00"
-  },
-  {
-    "id": 2737,
-    "fingerprint": "5b726d9d4131711ae5a4e5268d82d2021434ed0adfc7751a8836e42cec7e8a52",
-    "title": "Vagas de Docente em São Paulo, São Paulo, Brasil (587 vagas ...",
-    "organization": "Br",
-    "url": "https://br.linkedin.com/jobs/docente-vagas-são-paulo",
-    "snippet": "As 587 melhores vagas de Docente hoje, em São Paulo, São Paulo, Brasil. Aproveite sua rede profissional para conseguir emprego. Novas vagas de Docente são adicionadas diariamente.",
-    "source": "br.linkedin.com",
-    "category": "universities",
-    "score": 36,
-    "status": "new",
-    "first_seen": "2026-09-02T14:59:26.105137+00:00",
-    "last_seen": "2026-10-05T19:31:01.608667+00:00"
   },
   {
     "id": 4197,
